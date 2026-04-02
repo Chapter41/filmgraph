@@ -1,15 +1,12 @@
 <div align="center">
 
-# 🎬 FilmGraph
+# FilmGraph
 
-**A minimal, structured data format for film analysis.**
-
-Zero dependencies beyond Pydantic. One schema for shots, scenes, dialogue, and cinematography.
+**A structured data format for film analysis.**
 
 [![PyPI](https://img.shields.io/pypi/v/filmgraph?color=%2334D058&label=pypi)](https://pypi.org/project/filmgraph/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![Typed](https://img.shields.io/badge/typed-yes-brightgreen.svg)]()
 
 [Install](#install) · [Quick Start](#quick-start) · [Schema](#schema) · [Importers](#importers) · [Docs](https://Chapter41.github.io/filmgraph)
 
@@ -19,17 +16,9 @@ Zero dependencies beyond Pydantic. One schema for shots, scenes, dialogue, and c
 
 ## Why FilmGraph?
 
-The film industry uses dozens of incompatible formats — CCSLs in Word docs, Dialogbücher, SRT subtitles, EDLs, XML timelines, proprietary pipeline outputs. If you're building tools that analyze film, you spend more time parsing formats than doing actual work.
+The film industry relies on dozens of incompatible formats — CCSLs in Word documents, Dialogbücher, SRT subtitles, EDLs, XML timelines, proprietary pipeline outputs. Building tools that work across these formats means spending more time parsing than analyzing.
 
-**FilmGraph is one JSON schema that captures everything:**
-
-- 🎥 **Shots** — cut boundaries, timecodes, duration
-- 🎬 **Cinematography** — shot size, camera movement, angle, type
-- 👁️ **Visual** — frame descriptions, colors, lighting
-- 🔊 **Audio** — dialogue lines with speakers, music cues, SFX
-- ✂️ **Editorial** — transitions, source clips, ML confidence
-- 🎭 **Characters & Locations** — referenced by ID across the graph
-- 📍 **Scenes & Events** — narrative structure and plot turning points
+FilmGraph is a single JSON schema that captures shots, scenes, dialogue, cinematography, characters, locations, and narrative events. Zero dependencies beyond Pydantic. One format for your entire pipeline.
 
 ```json
 {
@@ -114,7 +103,7 @@ Every categorical field uses a controlled enum with an `OTHER` fallback for exte
 
 ## Importers
 
-Convert industry formats into `FilmGraph` with a single function call:
+Convert industry formats into FilmGraph with a single function call:
 
 ```python
 from filmgraph.importers.ccsl import ccsl_to_filmgraph
