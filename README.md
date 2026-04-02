@@ -204,4 +204,4 @@ Contributions welcome. Please open an issue first to discuss what you'd like to 
 
 ## License
 
-[MIT](LICENSE) · Made by [Chapter](https://chapter.film)
+[MIT](LICENSE) · Made by [Chapter41](https://chapter41.de)
