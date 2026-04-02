@@ -1,0 +1,2929 @@
+{
+  "schema_version": "filmgraph/v1",
+  "meta": {
+    "title": "Bloody Tennis (pipeline)",
+    "duration": 600.0,
+    "sources": [
+      {
+        "layer": "all",
+        "source": "pipeline"
+      }
+    ]
+  },
+  "entities": {
+    "characters": [
+      {
+        "id": "bambi",
+        "name": "Bambi"
+      },
+      {
+        "id": "bana",
+        "name": "Bana"
+      },
+      {
+        "id": "coach",
+        "name": "Coach"
+      },
+      {
+        "id": "dark-haired-girl",
+        "name": "Dark-haired girl"
+      },
+      {
+        "id": "driver",
+        "name": "Driver"
+      },
+      {
+        "id": "frieda",
+        "name": "Frieda"
+      },
+      {
+        "id": "girl-with-buns",
+        "name": "Girl with buns"
+      },
+      {
+        "id": "green-braided-hair-girl",
+        "name": "Green braided hair girl"
+      },
+      {
+        "id": "indian-girl",
+        "name": "Indian girl"
+      },
+      {
+        "id": "mary-tyrone",
+        "name": "Mary Tyrone"
+      },
+      {
+        "id": "nelly",
+        "name": "Nelly"
+      },
+      {
+        "id": "older-woman",
+        "name": "Older Woman"
+      },
+      {
+        "id": "passenger",
+        "name": "Passenger"
+      },
+      {
+        "id": "smoking-woman",
+        "name": "Smoking Woman"
+      },
+      {
+        "id": "sophie",
+        "name": "Sophie"
+      },
+      {
+        "id": "xue",
+        "name": "Xue"
+      },
+      {
+        "id": "young-woman",
+        "name": "Young Woman"
+      }
+    ]
+  },
+  "scenes": [
+    {
+      "id": 1,
+      "title": "BT Segment 1",
+      "summary": "BT Segment 1",
+      "start_time": 0.0,
+      "end_time": 120.0,
+      "location": "A winding mountain road in a dry, rugged landscape, moving into the interior of a vintage car",
+      "characters": [
+        "Driver",
+        "Passenger"
+      ],
+      "mood": "Quiet, somewhat tense, atmospheric, and observant",
+      "shots": [
+        {
+          "id": "sh-1",
+          "order": 1,
+          "start_time": 0.0,
+          "end_time": 34.708333333333336,
+          "cinematography": {
+            "shot_size": "WS",
+            "shot_type": "establishing",
+            "camera_angle": "eye-level",
+            "camera_movement": "zoom"
+          },
+          "visual": {
+            "description": "Opening credits in red typography overlay a sweeping wide shot anticipating a car traveling along a winding mountain road in a rugged desert landscape under an overcast sky.",
+            "dominant_colors": [
+              "Brown",
+              "Grey",
+              "Red"
+            ],
+            "lighting": "natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "emotional_tone": "mysterious",
+          "source": "pipeline",
+          "duration": 34.708333333333336
+        },
+        {
+          "id": "sh-2",
+          "order": 2,
+          "start_time": 34.708333333333336,
+          "end_time": 54.333333333333336,
+          "cinematography": {
+            "shot_size": "WS",
+            "camera_angle": "high-angle",
+            "camera_movement": "tracking"
+          },
+          "visual": {
+            "description": "A high-angle tracking shot reveals a car as it continues driving down a winding road through a mountainous, arid terrain while red title credits continue to appear.",
+            "dominant_colors": [
+              "Brown",
+              "Grey",
+              "Red"
+            ],
+            "lighting": "natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "emotional_tone": "isolated",
+          "source": "pipeline",
+          "duration": 19.625
+        },
+        {
+          "id": "sh-3",
+          "order": 3,
+          "start_time": 54.333333333333336,
+          "end_time": 61.0,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "Inside the car, a man in profile drives the car while holding a dark fruit in his hand, taking a bite as natural light filters through the side window.",
+            "dominant_colors": [
+              "Brown",
+              "Beige",
+              "Red"
+            ],
+            "lighting": "natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Driver"
+          ],
+          "emotional_tone": "casual",
+          "source": "pipeline",
+          "duration": 6.666666666666664
+        },
+        {
+          "id": "sh-4",
+          "order": 4,
+          "start_time": 61.0,
+          "end_time": 64.25,
+          "cinematography": {
+            "shot_size": "CU",
+            "camera_angle": "high-angle",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "A close-up insert shot shows a person's lap inside the car, where scattered pink flower petals rest gently on denim jeans and a light pink shirt.",
+            "dominant_colors": [
+              "Blue",
+              "Pink",
+              "Brown"
+            ],
+            "lighting": "natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Driver"
+          ],
+          "emotional_tone": "surreal",
+          "source": "pipeline",
+          "duration": 3.25
+        },
+        {
+          "id": "sh-5",
+          "order": 5,
+          "start_time": 64.25,
+          "end_time": 86.625,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "A young person sits in the backseat of the car while wearing headphones, looking out the window and quietly speaking on her mobile phone.",
+            "dominant_colors": [
+              "White",
+              "Brown",
+              "Grey"
+            ],
+            "lighting": "natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Passenger"
+          ],
+          "emotional_tone": "tense",
+          "source": "pipeline",
+          "duration": 22.375
+        },
+        {
+          "id": "sh-6",
+          "order": 6,
+          "start_time": 86.625,
+          "end_time": 94.83333333333333,
+          "cinematography": {
+            "shot_size": "MS",
+            "shot_type": "two-shot",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "A deep-focus two-shot from the front shows the driver looking ahead at the road while a passenger sits quietly in the backseat, taking out her earphone as a conversation starts.",
+            "dominant_colors": [
+              "Brown",
+              "White",
+              "Beige"
+            ],
+            "lighting": "natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Driver",
+            "Passenger"
+          ],
+          "emotional_tone": "neutral",
+          "source": "pipeline",
+          "duration": 8.208333333333329
+        },
+        {
+          "id": "sh-7",
+          "order": 7,
+          "start_time": 94.83333333333333,
+          "end_time": 100.79166666666667,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "single",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "Framed from behind the seats, the driver looks out the window while gripping the steering wheel, making a casual remark to his passenger.",
+            "dominant_colors": [
+              "Brown",
+              "Beige",
+              "Grey"
+            ],
+            "lighting": "natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Driver"
+          ],
+          "emotional_tone": "conversational",
+          "source": "pipeline",
+          "duration": 5.958333333333343
+        },
+        {
+          "id": "sh-8",
+          "order": 8,
+          "start_time": 100.79166666666667,
+          "end_time": 104.70833333333333,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "reaction",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "A close-up captures the young passenger as she gazes out the window from the backseat of the car, listening tentatively to the driver's question.",
+            "dominant_colors": [
+              "White",
+              "Grey",
+              "Brown"
+            ],
+            "lighting": "natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Passenger"
+          ],
+          "emotional_tone": "tentative",
+          "source": "pipeline",
+          "duration": 3.916666666666657
+        },
+        {
+          "id": "sh-9",
+          "order": 9,
+          "start_time": 104.70833333333333,
+          "end_time": 108.625,
+          "cinematography": {
+            "shot_size": "CU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "The male driver looks ahead and smiles genially while steering the vehicle, framed in a close-up from the passenger side.",
+            "dominant_colors": [
+              "Brown",
+              "Beige",
+              "Grey"
+            ],
+            "lighting": "natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Driver"
+          ],
+          "emotional_tone": "friendly",
+          "source": "pipeline",
+          "duration": 3.9166666666666714
+        },
+        {
+          "id": "sh-10",
+          "order": 10,
+          "start_time": 108.625,
+          "end_time": 112.29166666666667,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "reaction",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "The young passenger smiles slightly while looking down inside the car, offering a polite reaction to the driver's conversation.",
+            "dominant_colors": [
+              "White",
+              "Grey",
+              "Brown"
+            ],
+            "lighting": "natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Passenger"
+          ],
+          "emotional_tone": "reserved",
+          "source": "pipeline",
+          "duration": 3.6666666666666714
+        },
+        {
+          "id": "sh-11",
+          "order": 11,
+          "start_time": 112.29166666666667,
+          "end_time": 116.29166666666667,
+          "cinematography": {
+            "shot_size": "CU",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "An insert shot frames the driver's face, clearly reflected in the rearview mirror of the car as he drives forward.",
+            "dominant_colors": [
+              "Brown",
+              "Grey",
+              "Beige"
+            ],
+            "lighting": "natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Driver"
+          ],
+          "emotional_tone": "intimate",
+          "source": "pipeline",
+          "duration": 4.0
+        },
+        {
+          "id": "sh-12",
+          "order": 12,
+          "start_time": 116.29166666666667,
+          "end_time": 120.0,
+          "cinematography": {
+            "shot_size": "MWS",
+            "camera_angle": "eye-level",
+            "camera_movement": "tracking"
+          },
+          "visual": {
+            "description": "An exterior tracking shot shows the driver navigating the vintage brown car along a winding road flanked by a rugged stone wall.",
+            "dominant_colors": [
+              "Brown",
+              "Grey",
+              "Yellow"
+            ],
+            "lighting": "natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Driver"
+          ],
+          "emotional_tone": "observational",
+          "source": "pipeline",
+          "duration": 3.7083333333333286
+        }
+      ],
+      "duration": 120.0,
+      "shot_count": 12
+    },
+    {
+      "id": 2,
+      "title": "BT Segment 2",
+      "summary": "BT Segment 2",
+      "start_time": 120.0,
+      "end_time": 240.0,
+      "location": "The isolated, prestigious Mary Tyrone Tennis Academy, featuring grand red stone buildings and lush tropical gardens.",
+      "characters": [
+        "Sophie",
+        "Mary Tyrone"
+      ],
+      "mood": "Imposing, mysterious, and authoritative with a sense of awe.",
+      "shots": [
+        {
+          "id": "sh-1",
+          "order": 1,
+          "start_time": 120.0,
+          "end_time": 131.875,
+          "cinematography": {
+            "shot_size": "WS",
+            "shot_type": "establishing",
+            "camera_angle": "eye-level",
+            "camera_movement": "pan"
+          },
+          "visual": {
+            "description": "A tan car enters the entrance of a red building complex, driving up a winding path toward the grand estate nestled in the hills.",
+            "dominant_colors": [
+              "Tan",
+              "Red"
+            ],
+            "lighting": "natural, daylight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Sophie"
+          ],
+          "emotional_tone": "anticipatory",
+          "source": "pipeline",
+          "duration": 11.875
+        },
+        {
+          "id": "sh-2",
+          "order": 2,
+          "start_time": 131.875,
+          "end_time": 141.125,
+          "cinematography": {
+            "shot_size": "MLS",
+            "camera_angle": "eye-level",
+            "camera_movement": "push-in"
+          },
+          "visual": {
+            "description": "A young woman stands holding a bag in front of a wooden gate, getting out of the car and approaching the academy entrance with her belongings.",
+            "dominant_colors": [
+              "Red",
+              "Brown",
+              "White"
+            ],
+            "lighting": "natural, daylight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Sophie"
+          ],
+          "emotional_tone": "curious",
+          "source": "pipeline",
+          "duration": 9.25
+        },
+        {
+          "id": "sh-3",
+          "order": 3,
+          "start_time": 141.125,
+          "end_time": 143.08333333333334,
+          "cinematography": {
+            "shot_size": "MS",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "tracking"
+          },
+          "visual": {
+            "description": "A young woman with a bag looks upward toward the red building as she pushes through the heavy wooden doors and steps inside the courtyard.",
+            "dominant_colors": [
+              "Brown",
+              "White"
+            ],
+            "lighting": "natural, daylight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Sophie"
+          ],
+          "emotional_tone": "awe-struck",
+          "source": "pipeline",
+          "duration": 1.9583333333333428
+        },
+        {
+          "id": "sh-4",
+          "order": 4,
+          "start_time": 143.08333333333334,
+          "end_time": 154.66666666666666,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "tracking"
+          },
+          "visual": {
+            "description": "A young woman wearing a white jacket looks off into the distance, taking in the surroundings as a voice welcomes her to the academy.",
+            "dominant_colors": [
+              "White",
+              "Red"
+            ],
+            "lighting": "natural, daylight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Sophie"
+          ],
+          "emotional_tone": "wonder",
+          "source": "pipeline",
+          "duration": 11.583333333333314
+        },
+        {
+          "id": "sh-5",
+          "order": 5,
+          "start_time": 154.66666666666666,
+          "end_time": 159.58333333333334,
+          "cinematography": {
+            "shot_size": "MWS",
+            "shot_type": "single",
+            "camera_angle": "low-angle",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "An older woman in a red and black cardigan stands on a balcony, officially welcoming the newcomer to the Mary Tyrone Tennis Academy.",
+            "dominant_colors": [
+              "Red",
+              "Green"
+            ],
+            "lighting": "natural, daylight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Mary Tyrone"
+          ],
+          "emotional_tone": "authoritative",
+          "source": "pipeline",
+          "duration": 4.916666666666686
+        },
+        {
+          "id": "sh-6",
+          "order": 6,
+          "start_time": 159.58333333333334,
+          "end_time": 163.33333333333334,
+          "cinematography": {
+            "shot_size": "MWS",
+            "shot_type": "over-the-shoulder",
+            "camera_angle": "high-angle",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "A young woman with a bag stands alone in a courtyard area, framed over the shoulder from the balcony perspective as the older woman interrupts her greeting.",
+            "dominant_colors": [
+              "Red",
+              "White"
+            ],
+            "lighting": "natural, daylight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Sophie",
+            "Mary Tyrone"
+          ],
+          "emotional_tone": "subservient",
+          "source": "pipeline",
+          "duration": 3.75
+        },
+        {
+          "id": "sh-7",
+          "order": 7,
+          "start_time": 163.33333333333334,
+          "end_time": 167.41666666666666,
+          "cinematography": {
+            "shot_size": "WS",
+            "shot_type": "cutaway",
+            "camera_angle": "worms-eye",
+            "camera_movement": "pan"
+          },
+          "visual": {
+            "description": "Sunlight filters through the palm tree fronds above, offering a momentary glimpse of the tranquil academy environment overhead.",
+            "dominant_colors": [
+              "Green",
+              "White"
+            ],
+            "lighting": "natural, high_contrast"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "emotional_tone": "peaceful",
+          "source": "pipeline",
+          "duration": 4.083333333333314
+        },
+        {
+          "id": "sh-8",
+          "order": 8,
+          "start_time": 167.41666666666666,
+          "end_time": 172.0,
+          "cinematography": {
+            "shot_size": "MS",
+            "camera_angle": "eye-level",
+            "camera_movement": "tracking"
+          },
+          "visual": {
+            "description": "A young woman follows an older woman walking through a garden, the camera tracking them from behind as they traverse a stone pathway.",
+            "dominant_colors": [
+              "Green",
+              "White",
+              "Red"
+            ],
+            "lighting": "natural, daylight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Sophie",
+            "Mary Tyrone"
+          ],
+          "emotional_tone": "focused",
+          "source": "pipeline",
+          "duration": 4.583333333333343
+        },
+        {
+          "id": "sh-9",
+          "order": 9,
+          "start_time": 172.0,
+          "end_time": 185.29166666666666,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "tracking"
+          },
+          "visual": {
+            "description": "An older woman looks up while talking to someone off-screen, walking backwards down the path as she explains the historical origins of tennis in the 13th century.",
+            "dominant_colors": [
+              "Red",
+              "Black",
+              "Green"
+            ],
+            "lighting": "natural, daylight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Mary Tyrone"
+          ],
+          "emotional_tone": "passionate",
+          "source": "pipeline",
+          "duration": 13.291666666666657
+        },
+        {
+          "id": "sh-10",
+          "order": 10,
+          "start_time": 185.29166666666666,
+          "end_time": 188.41666666666666,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "single",
+            "camera_angle": "low-angle",
+            "camera_movement": "push-in"
+          },
+          "visual": {
+            "description": "An older woman speaks with her hands raised in a courtyard, pausing her walk to emphasize that she molds the 'creme de la creme' of tennis.",
+            "dominant_colors": [
+              "Green",
+              "Red"
+            ],
+            "lighting": "natural, daylight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Mary Tyrone"
+          ],
+          "emotional_tone": "intense",
+          "source": "pipeline",
+          "duration": 3.125
+        },
+        {
+          "id": "sh-11",
+          "order": 11,
+          "start_time": 188.41666666666666,
+          "end_time": 192.70833333333334,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "tracking"
+          },
+          "visual": {
+            "description": "A young woman looks up while walking outdoors, absorbing the older woman's words and observing the environment with wide eyes.",
+            "dominant_colors": [
+              "White",
+              "Green"
+            ],
+            "lighting": "natural, daylight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Sophie"
+          ],
+          "emotional_tone": "captivated",
+          "source": "pipeline",
+          "duration": 4.291666666666686
+        },
+        {
+          "id": "sh-12",
+          "order": 12,
+          "start_time": 192.70833333333334,
+          "end_time": 198.375,
+          "cinematography": {
+            "shot_size": "WS",
+            "shot_type": "cutaway",
+            "camera_angle": "worms-eye",
+            "camera_movement": "pan"
+          },
+          "visual": {
+            "description": "Sunlight shines through tree branches overhead, creating a bright flare and setting an ethereal tone for the scene.",
+            "dominant_colors": [
+              "Green",
+              "White"
+            ],
+            "lighting": "natural, high_contrast"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "emotional_tone": "mystical",
+          "source": "pipeline",
+          "duration": 5.666666666666657
+        },
+        {
+          "id": "sh-13",
+          "order": 13,
+          "start_time": 198.375,
+          "end_time": 207.25,
+          "cinematography": {
+            "shot_size": "WS",
+            "shot_type": "establishing",
+            "camera_angle": "eye-level",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "A young woman walks across a stone courtyard seen through a window, as the older woman gives a tour of the academy's historical facilities, including the main mansion.",
+            "dominant_colors": [
+              "Red",
+              "Brown"
+            ],
+            "lighting": "natural, daylight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Sophie",
+            "Mary Tyrone"
+          ],
+          "emotional_tone": "informative",
+          "source": "pipeline",
+          "duration": 8.875
+        },
+        {
+          "id": "sh-14",
+          "order": 14,
+          "start_time": 207.25,
+          "end_time": 215.58333333333334,
+          "cinematography": {
+            "shot_size": "MWS",
+            "shot_type": "two-shot",
+            "camera_angle": "eye-level",
+            "camera_movement": "tracking"
+          },
+          "visual": {
+            "description": "A young woman walks alongside an older woman toward a red building, navigating stone steps as the older woman points out the dormitory and training areas.",
+            "dominant_colors": [
+              "Red",
+              "White"
+            ],
+            "lighting": "natural, daylight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Sophie",
+            "Mary Tyrone"
+          ],
+          "emotional_tone": "guided",
+          "source": "pipeline",
+          "duration": 8.333333333333343
+        },
+        {
+          "id": "sh-15",
+          "order": 15,
+          "start_time": 215.58333333333334,
+          "end_time": 218.625,
+          "cinematography": {
+            "shot_size": "MLS",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "A young woman glances back while walking through a courtyard, instructed to wait before meeting the other students.",
+            "dominant_colors": [
+              "Red",
+              "Grey",
+              "White"
+            ],
+            "lighting": "natural, daylight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Sophie"
+          ],
+          "emotional_tone": "obedient",
+          "source": "pipeline",
+          "duration": 3.041666666666657
+        },
+        {
+          "id": "sh-16",
+          "order": 16,
+          "start_time": 218.625,
+          "end_time": 224.20833333333334,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "An older woman in a cardigan speaks to someone off-camera, aggressively demanding complete focus and absolute lack of distractions over the next six weeks.",
+            "dominant_colors": [
+              "Red",
+              "Black",
+              "Green"
+            ],
+            "lighting": "natural, daylight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Mary Tyrone"
+          ],
+          "emotional_tone": "demanding",
+          "source": "pipeline",
+          "duration": 5.583333333333343
+        },
+        {
+          "id": "sh-17",
+          "order": 17,
+          "start_time": 224.20833333333334,
+          "end_time": 228.45833333333334,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "A young woman listens intently in a garden courtyard, agreeing to the strict rules but mentioning she must first check in with her father.",
+            "dominant_colors": [
+              "White",
+              "Red"
+            ],
+            "lighting": "natural, daylight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Sophie"
+          ],
+          "emotional_tone": "submissive",
+          "source": "pipeline",
+          "duration": 4.25
+        },
+        {
+          "id": "sh-18",
+          "order": 18,
+          "start_time": 228.45833333333334,
+          "end_time": 236.625,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "push-in"
+          },
+          "visual": {
+            "description": "An older woman speaks while gesturing with her hand, firmly stating that she is the authority figure now and that the father will be informed on a need-to-know basis.",
+            "dominant_colors": [
+              "Red",
+              "Black"
+            ],
+            "lighting": "natural, daylight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Mary Tyrone"
+          ],
+          "emotional_tone": "dominating",
+          "source": "pipeline",
+          "duration": 8.166666666666657
+        },
+        {
+          "id": "sh-19",
+          "order": 19,
+          "start_time": 236.625,
+          "end_time": 240.0,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "reaction",
+            "camera_angle": "eye-level",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "A young woman looks down with a contemplative expression, visibly unnerved and isolated by the Headmistress's controlling final statement.",
+            "dominant_colors": [
+              "White",
+              "Red"
+            ],
+            "lighting": "natural, daylight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Sophie"
+          ],
+          "emotional_tone": "anxious",
+          "source": "pipeline",
+          "duration": 3.375
+        }
+      ],
+      "duration": 120.0,
+      "shot_count": 19
+    },
+    {
+      "id": 3,
+      "title": "BT Segment 3",
+      "summary": "BT Segment 3",
+      "start_time": 240.0,
+      "end_time": 360.0,
+      "location": "An outdoor red clay tennis court and surrounding red walls of the academy",
+      "characters": [
+        "Frieda",
+        "Coach",
+        "Nelly",
+        "Bana",
+        "Girl with buns",
+        "Dark-haired girl"
+      ],
+      "mood": "Tense, competitive, and intimidating",
+      "shots": [
+        {
+          "id": "sh-1",
+          "order": 1,
+          "start_time": 240.0,
+          "end_time": 240.5,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "tracking"
+          },
+          "visual": {
+            "description": "A blonde woman in a white jacket looks off to the side, completing a tracking movement.",
+            "dominant_colors": [
+              "Red",
+              "White"
+            ],
+            "lighting": "natural_sunlight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Frieda"
+          ],
+          "emotional_tone": "neutral",
+          "source": "pipeline",
+          "duration": 0.5
+        },
+        {
+          "id": "sh-2",
+          "order": 2,
+          "start_time": 240.5,
+          "end_time": 243.04166666666666,
+          "cinematography": {
+            "shot_size": "MS",
+            "shot_type": "single",
+            "camera_angle": "low-angle",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "An older woman in a black and red outfit hands a black smartphone to someone off-camera outside a red building.",
+            "dominant_colors": [
+              "Red",
+              "Black",
+              "White"
+            ],
+            "lighting": "natural_sunlight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Older woman"
+          ],
+          "emotional_tone": "dismissive",
+          "source": "pipeline",
+          "duration": 2.541666666666657
+        },
+        {
+          "id": "sh-3",
+          "order": 3,
+          "start_time": 243.04166666666666,
+          "end_time": 258.6666666666667,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "tracking"
+          },
+          "visual": {
+            "description": "A profile view of a blonde woman standing against a solid red wall as she walks carrying a sports bag, turning to look behind her.",
+            "dominant_colors": [
+              "Red",
+              "White"
+            ],
+            "lighting": "natural_sunlight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Frieda"
+          ],
+          "emotional_tone": "apprehensive",
+          "source": "pipeline",
+          "duration": 15.625000000000028
+        },
+        {
+          "id": "sh-4",
+          "order": 4,
+          "start_time": 258.6666666666667,
+          "end_time": 265.4166666666667,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "The blonde woman looks toward the camera with a neutral, slightly confused expression, framed against the red wall.",
+            "dominant_colors": [
+              "Red",
+              "White"
+            ],
+            "lighting": "natural_sunlight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Frieda"
+          ],
+          "emotional_tone": "confused",
+          "source": "pipeline",
+          "duration": 6.75
+        },
+        {
+          "id": "sh-5",
+          "order": 5,
+          "start_time": 265.4166666666667,
+          "end_time": 277.2083333333333,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "over-the-shoulder",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "An older man in a white vest talks sternly to the blonde woman on a tennis court, seen from over her shoulder.",
+            "dominant_colors": [
+              "White",
+              "Red"
+            ],
+            "lighting": "natural_sunlight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Coach",
+            "Frieda"
+          ],
+          "emotional_tone": "stern",
+          "source": "pipeline",
+          "duration": 11.791666666666629
+        },
+        {
+          "id": "sh-6",
+          "order": 6,
+          "start_time": 277.2083333333333,
+          "end_time": 281.9166666666667,
+          "cinematography": {
+            "shot_size": "CU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "The blonde woman looks ahead with a serious, contemplative expression while being reprimanded.",
+            "dominant_colors": [
+              "Red",
+              "White"
+            ],
+            "lighting": "natural_sunlight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Frieda"
+          ],
+          "emotional_tone": "defensive",
+          "source": "pipeline",
+          "duration": 4.708333333333371
+        },
+        {
+          "id": "sh-7",
+          "order": 7,
+          "start_time": 281.9166666666667,
+          "end_time": 286.7916666666667,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "over-the-shoulder",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "The older man in a white vest speaks aggressively while looking towards the side.",
+            "dominant_colors": [
+              "White",
+              "Red"
+            ],
+            "lighting": "natural_sunlight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Coach"
+          ],
+          "emotional_tone": "authoritative",
+          "source": "pipeline",
+          "duration": 4.875
+        },
+        {
+          "id": "sh-8",
+          "order": 8,
+          "start_time": 286.7916666666667,
+          "end_time": 295.4583333333333,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "The blonde woman with a sports bag stands and listens to the coach off-camera, looking chastised.",
+            "dominant_colors": [
+              "Red",
+              "White"
+            ],
+            "lighting": "natural_sunlight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Frieda"
+          ],
+          "emotional_tone": "submissive",
+          "source": "pipeline",
+          "duration": 8.666666666666629
+        },
+        {
+          "id": "sh-9",
+          "order": 9,
+          "start_time": 295.4583333333333,
+          "end_time": 299.4583333333333,
+          "cinematography": {
+            "shot_size": "MWS",
+            "shot_type": "establishing",
+            "camera_angle": "eye-level",
+            "camera_movement": "pan"
+          },
+          "visual": {
+            "description": "Several women with tennis gear sit and stand near a red wall on the court as the coach walks away.",
+            "dominant_colors": [
+              "Red",
+              "Black",
+              "White"
+            ],
+            "lighting": "natural_sunlight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Bana",
+            "Coach",
+            "Girl with buns"
+          ],
+          "emotional_tone": "tense",
+          "source": "pipeline",
+          "duration": 4.0
+        },
+        {
+          "id": "sh-10",
+          "order": 10,
+          "start_time": 299.4583333333333,
+          "end_time": 306.0,
+          "cinematography": {
+            "shot_size": "MS",
+            "shot_type": "point-of-view",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "A blurred point-of-view shot shows a woman drinking from a bottle while standing on the tennis court, framed over a shoulder.",
+            "dominant_colors": [
+              "Red",
+              "Black"
+            ],
+            "lighting": "natural_sunlight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.85
+          },
+          "characters_visible": [
+            "Dark-haired girl",
+            "Nelly"
+          ],
+          "emotional_tone": "observational",
+          "source": "pipeline",
+          "duration": 6.541666666666686
+        },
+        {
+          "id": "sh-11",
+          "order": 11,
+          "start_time": 306.0,
+          "end_time": 312.375,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "two-shot",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "Two women, Frieda and a girl with two buns, sit together on a bench against a red wall as they talk.",
+            "dominant_colors": [
+              "Red",
+              "White",
+              "Blonde"
+            ],
+            "lighting": "natural_sunlight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Frieda",
+            "Girl with buns"
+          ],
+          "emotional_tone": "gossipy",
+          "source": "pipeline",
+          "duration": 6.375
+        },
+        {
+          "id": "sh-12",
+          "order": 12,
+          "start_time": 312.375,
+          "end_time": 316.1666666666667,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "A young woman with a ponytail, Nelly, adjusts a strand behind her ear while looking disdainfully across the court.",
+            "dominant_colors": [
+              "Red",
+              "Black"
+            ],
+            "lighting": "natural_sunlight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Nelly"
+          ],
+          "emotional_tone": "arrogant",
+          "source": "pipeline",
+          "duration": 3.7916666666666856
+        },
+        {
+          "id": "sh-13",
+          "order": 13,
+          "start_time": 316.1666666666667,
+          "end_time": 319.5,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "two-shot",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "A blonde woman listens as a woman with two small buns sits beside her, explaining the hierarchy of the academy.",
+            "dominant_colors": [
+              "Red",
+              "White"
+            ],
+            "lighting": "natural_sunlight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Frieda",
+            "Girl with buns"
+          ],
+          "emotional_tone": "informative",
+          "source": "pipeline",
+          "duration": 3.3333333333333144
+        },
+        {
+          "id": "sh-14",
+          "order": 14,
+          "start_time": 319.5,
+          "end_time": 328.4166666666667,
+          "cinematography": {
+            "shot_size": "CU",
+            "shot_type": "single",
+            "camera_angle": "low-angle",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "A dark-haired woman in a black sports top looks down thoughtfully, giving a harsh assessment while standing on the court.",
+            "dominant_colors": [
+              "Grey",
+              "Black"
+            ],
+            "lighting": "natural_sunlight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Dark-haired girl"
+          ],
+          "emotional_tone": "mocking",
+          "source": "pipeline",
+          "duration": 8.916666666666686
+        },
+        {
+          "id": "sh-15",
+          "order": 15,
+          "start_time": 328.4166666666667,
+          "end_time": 339.1666666666667,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "two-shot",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "The blonde woman looks towards her friend, following her pointing gesture, while sitting against a red wall.",
+            "dominant_colors": [
+              "Red",
+              "White"
+            ],
+            "lighting": "natural_sunlight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Frieda",
+            "Girl with buns"
+          ],
+          "emotional_tone": "curious",
+          "source": "pipeline",
+          "duration": 10.75
+        },
+        {
+          "id": "sh-16",
+          "order": 16,
+          "start_time": 339.1666666666667,
+          "end_time": 342.4583333333333,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "pan"
+          },
+          "visual": {
+            "description": "An Asian woman with pigtails swings intensely at a tennis ball during practice on the court.",
+            "dominant_colors": [
+              "Red",
+              "Black"
+            ],
+            "lighting": "natural_sunlight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Asian girl"
+          ],
+          "emotional_tone": "intense",
+          "source": "pipeline",
+          "duration": 3.2916666666666288
+        },
+        {
+          "id": "sh-17",
+          "order": 17,
+          "start_time": 342.4583333333333,
+          "end_time": 344.0416666666667,
+          "cinematography": {
+            "shot_size": "CU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "A woman with green braided hair looks ahead with a fiercely focused expression as she prepares.",
+            "dominant_colors": [
+              "Red",
+              "Green",
+              "Black"
+            ],
+            "lighting": "natural_sunlight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Bana"
+          ],
+          "emotional_tone": "determined",
+          "source": "pipeline",
+          "duration": 1.5833333333333712
+        },
+        {
+          "id": "sh-18",
+          "order": 18,
+          "start_time": 344.0416666666667,
+          "end_time": 347.2083333333333,
+          "cinematography": {
+            "shot_size": "ECU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "A tight close-up of a woman with green braided hair, panting slightly while holding her stance during practice.",
+            "dominant_colors": [
+              "Red",
+              "Green"
+            ],
+            "lighting": "natural_sunlight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Bana"
+          ],
+          "emotional_tone": "focused",
+          "source": "pipeline",
+          "duration": 3.1666666666666288
+        },
+        {
+          "id": "sh-19",
+          "order": 19,
+          "start_time": 347.2083333333333,
+          "end_time": 350.4583333333333,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "two-shot",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "The blonde woman looks at her companion in slight disbelief as they sit together on the bench.",
+            "dominant_colors": [
+              "Red",
+              "White"
+            ],
+            "lighting": "natural_sunlight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Frieda",
+            "Girl with buns"
+          ],
+          "emotional_tone": "intimidated",
+          "source": "pipeline",
+          "duration": 3.25
+        },
+        {
+          "id": "sh-20",
+          "order": 20,
+          "start_time": 350.4583333333333,
+          "end_time": 357.5833333333333,
+          "cinematography": {
+            "shot_size": "ECU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "A close-up of a woman with braided hair, seemingly mid-action, intensely focused as she prepares to return a shot.",
+            "dominant_colors": [
+              "Red",
+              "Green",
+              "Dark_skin"
+            ],
+            "lighting": "natural_sunlight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Bana"
+          ],
+          "emotional_tone": "intense",
+          "source": "pipeline",
+          "duration": 7.125
+        },
+        {
+          "id": "sh-21",
+          "order": 21,
+          "start_time": 357.5833333333333,
+          "end_time": 360.0,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "two-shot",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "The blonde woman looks down in apprehension while sitting with another woman against the striking red wall.",
+            "dominant_colors": [
+              "Red",
+              "White"
+            ],
+            "lighting": "natural_sunlight"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.95
+          },
+          "characters_visible": [
+            "Frieda",
+            "Girl with buns"
+          ],
+          "emotional_tone": "overwhelmed",
+          "source": "pipeline",
+          "duration": 2.4166666666666856
+        }
+      ],
+      "duration": 120.0,
+      "shot_count": 21
+    },
+    {
+      "id": 4,
+      "title": "BT Segment 4",
+      "summary": "BT Segment 4",
+      "start_time": 360.0,
+      "end_time": 480.0,
+      "location": "An outdoor red clay tennis court and a dimly lit, institutional locker room",
+      "characters": [
+        "Sophie",
+        "Bambi",
+        "Coach",
+        "Xue",
+        "Smoking Woman",
+        "Green braided hair girl",
+        "Indian girl"
+      ],
+      "mood": "Tense, competitive, unwelcoming",
+      "shots": [
+        {
+          "id": "sh-1",
+          "order": 1,
+          "start_time": 360.0,
+          "end_time": 367.2916666666667,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "two-shot",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "Two young women with blonde hair are sitting together against a red wall and looking at each other, one discussing stomach cramps and her period.",
+            "dominant_colors": [
+              "Red",
+              "Blonde"
+            ],
+            "lighting": "natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Sophie",
+            "Bambi"
+          ],
+          "emotional_tone": "concerned",
+          "source": "pipeline",
+          "duration": 7.291666666666686
+        },
+        {
+          "id": "sh-2",
+          "order": 2,
+          "start_time": 367.2916666666667,
+          "end_time": 368.1666666666667,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "pan"
+          },
+          "visual": {
+            "description": "A woman with braided green hair is swinging a tennis racket aggressively during a match, focusing intensely.",
+            "dominant_colors": [
+              "Green",
+              "Red"
+            ],
+            "lighting": "natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Green braided hair girl"
+          ],
+          "emotional_tone": "intense",
+          "source": "pipeline",
+          "duration": 0.875
+        },
+        {
+          "id": "sh-3",
+          "order": 3,
+          "start_time": 368.1666666666667,
+          "end_time": 369.5833333333333,
+          "cinematography": {
+            "shot_size": "CU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "A young woman with dark hair focuses intently on a tennis court, bracing for the next move.",
+            "dominant_colors": [
+              "Red",
+              "Skin Tones"
+            ],
+            "lighting": "natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Dark haired tennis player"
+          ],
+          "emotional_tone": "focused",
+          "source": "pipeline",
+          "duration": 1.4166666666666288
+        },
+        {
+          "id": "sh-4",
+          "order": 4,
+          "start_time": 369.5833333333333,
+          "end_time": 371.25,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "pan"
+          },
+          "visual": {
+            "description": "A woman with green braided hair continues her athletic tennis swing, returning a powerful shot.",
+            "dominant_colors": [
+              "Green",
+              "Red"
+            ],
+            "lighting": "natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Green braided hair girl"
+          ],
+          "emotional_tone": "intense",
+          "source": "pipeline",
+          "duration": 1.6666666666666856
+        },
+        {
+          "id": "sh-5",
+          "order": 5,
+          "start_time": 371.25,
+          "end_time": 373.5416666666667,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "An elderly male coach is speaking sternly to someone off-camera while standing on a tennis court.",
+            "dominant_colors": [
+              "Red",
+              "White"
+            ],
+            "lighting": "natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Coach"
+          ],
+          "emotional_tone": "authoritative",
+          "source": "pipeline",
+          "duration": 2.2916666666666856
+        },
+        {
+          "id": "sh-6",
+          "order": 6,
+          "start_time": 373.5416666666667,
+          "end_time": 375.375,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "over-the-shoulder",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "Two blonde women are conversing while sitting against a red wall. Bambi explains that she has her period to excuse herself from playing.",
+            "dominant_colors": [
+              "Red",
+              "Blonde"
+            ],
+            "lighting": "natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Sophie",
+            "Bambi"
+          ],
+          "emotional_tone": "uncomfortable",
+          "source": "pipeline",
+          "duration": 1.8333333333333144
+        },
+        {
+          "id": "sh-7",
+          "order": 7,
+          "start_time": 375.375,
+          "end_time": 380.2916666666667,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "An older man in a vest looks toward the side while standing on the court, aggressively demanding that the girls stop being pathetic and join the practice.",
+            "dominant_colors": [
+              "Red",
+              "White"
+            ],
+            "lighting": "natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Coach"
+          ],
+          "emotional_tone": "aggressive",
+          "source": "pipeline",
+          "duration": 4.916666666666686
+        },
+        {
+          "id": "sh-8",
+          "order": 8,
+          "start_time": 380.2916666666667,
+          "end_time": 382.0416666666667,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "over-the-shoulder",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "Two young women with different hair colors sit together, looking in the same direction at the coach with weary expressions.",
+            "dominant_colors": [
+              "Red",
+              "Blonde"
+            ],
+            "lighting": "natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Sophie",
+            "Bambi"
+          ],
+          "emotional_tone": "resigned",
+          "source": "pipeline",
+          "duration": 1.75
+        },
+        {
+          "id": "sh-9",
+          "order": 9,
+          "start_time": 382.0416666666667,
+          "end_time": 387.8333333333333,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "An older man stands on the court and continues speaking, enforcing a punishment rule where everyone pushes if one dodges.",
+            "dominant_colors": [
+              "Red",
+              "White"
+            ],
+            "lighting": "natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Coach"
+          ],
+          "emotional_tone": "harsh",
+          "source": "pipeline",
+          "duration": 5.791666666666629
+        },
+        {
+          "id": "sh-10",
+          "order": 10,
+          "start_time": 387.8333333333333,
+          "end_time": 393.0833333333333,
+          "cinematography": {
+            "shot_size": "CU",
+            "camera_angle": "eye-level",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "Two small vintage television sets display black-and-white surveillance footage of people training on a tennis court and an empty locker room.",
+            "dominant_colors": [
+              "Red",
+              "Grey",
+              "Black"
+            ],
+            "lighting": "low_key"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "emotional_tone": "mysterious",
+          "source": "pipeline",
+          "duration": 5.25
+        },
+        {
+          "id": "sh-11",
+          "order": 11,
+          "start_time": 393.0833333333333,
+          "end_time": 401.375,
+          "cinematography": {
+            "shot_size": "CU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "push-in"
+          },
+          "visual": {
+            "description": "A woman with long dark hair holds a cigarette while speaking, watching the surveillance monitors in a dimly lit room.",
+            "dominant_colors": [
+              "Dark Brown",
+              "Red"
+            ],
+            "lighting": "low_key"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Smoking Woman"
+          ],
+          "emotional_tone": "cynical",
+          "source": "pipeline",
+          "duration": 8.291666666666686
+        },
+        {
+          "id": "sh-12",
+          "order": 12,
+          "start_time": 401.375,
+          "end_time": 403.0416666666667,
+          "cinematography": {
+            "shot_size": "ECU",
+            "camera_angle": "eye-level",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "A close-up of a weathered locker label with the name ERIN printed on it using a label maker.",
+            "dominant_colors": [
+              "Orange",
+              "Black"
+            ],
+            "lighting": "dim"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "emotional_tone": "neutral",
+          "source": "pipeline",
+          "duration": 1.6666666666666856
+        },
+        {
+          "id": "sh-13",
+          "order": 13,
+          "start_time": 403.0416666666667,
+          "end_time": 424.2083333333333,
+          "cinematography": {
+            "shot_size": "MS",
+            "shot_type": "two-shot",
+            "camera_angle": "eye-level",
+            "camera_movement": "pan"
+          },
+          "visual": {
+            "description": "A young woman in a track jacket stands inside a locker room with others, examining a locker before being addressed by another trainee.",
+            "dominant_colors": [
+              "Grey",
+              "Beige"
+            ],
+            "lighting": "top_lighting"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Sophie",
+            "Bambi"
+          ],
+          "emotional_tone": "unwelcoming",
+          "source": "pipeline",
+          "duration": 21.16666666666663
+        },
+        {
+          "id": "sh-14",
+          "order": 14,
+          "start_time": 424.2083333333333,
+          "end_time": 425.5416666666667,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "over-the-shoulder",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "A young woman wearing a tennis-themed t-shirt looks at a person standing in front of her, listening to their introduction.",
+            "dominant_colors": [
+              "Grey",
+              "Skin Tones"
+            ],
+            "lighting": "top_lighting"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Sophie"
+          ],
+          "emotional_tone": "neutral",
+          "source": "pipeline",
+          "duration": 1.3333333333333712
+        },
+        {
+          "id": "sh-15",
+          "order": 15,
+          "start_time": 425.5416666666667,
+          "end_time": 428.0,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "over-the-shoulder",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "A young woman with dark hair looks towards another person in a locker room, introducing herself as Xue from Nanjing.",
+            "dominant_colors": [
+              "Grey",
+              "Dark Brown"
+            ],
+            "lighting": "top_lighting"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Xue"
+          ],
+          "emotional_tone": "condescending",
+          "source": "pipeline",
+          "duration": 2.4583333333333144
+        },
+        {
+          "id": "sh-16",
+          "order": 16,
+          "start_time": 428.0,
+          "end_time": 433.5,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "over-the-shoulder",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "A young woman with blonde hair stands in a locker room looking at someone, hesitantly introducing herself as Sophie from Detroit.",
+            "dominant_colors": [
+              "Grey",
+              "Blonde"
+            ],
+            "lighting": "top_lighting"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Sophie"
+          ],
+          "emotional_tone": "insecure",
+          "source": "pipeline",
+          "duration": 5.5
+        },
+        {
+          "id": "sh-17",
+          "order": 17,
+          "start_time": 433.5,
+          "end_time": 441.5,
+          "cinematography": {
+            "shot_size": "MS",
+            "shot_type": "group",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "Three young women stand in a locker room having a tense conversation, with one mocking Sophie's nylon strings.",
+            "dominant_colors": [
+              "Grey",
+              "Black"
+            ],
+            "lighting": "top_lighting"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Sophie",
+            "Xue",
+            "Indian girl"
+          ],
+          "emotional_tone": "hostile",
+          "source": "pipeline",
+          "duration": 8.0
+        },
+        {
+          "id": "sh-18",
+          "order": 18,
+          "start_time": 441.5,
+          "end_time": 457.625,
+          "cinematography": {
+            "shot_size": "CU",
+            "shot_type": "two-shot",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "An Indian girl gets into Sophie's personal space to insult her, while a woman with braided hair stands in a locker room tying her hair up in the background.",
+            "dominant_colors": [
+              "Grey",
+              "Black",
+              "Skin Tones"
+            ],
+            "lighting": "top_lighting"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Sophie",
+            "Indian girl",
+            "Green braided hair girl"
+          ],
+          "emotional_tone": "aggressive",
+          "source": "pipeline",
+          "duration": 16.125
+        },
+        {
+          "id": "sh-19",
+          "order": 19,
+          "start_time": 457.625,
+          "end_time": 459.4583333333333,
+          "cinematography": {
+            "shot_size": "MS",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "A woman in a sports bra adjusts her clothing while standing in a locker room, casting a judgment-filled glance.",
+            "dominant_colors": [
+              "Grey",
+              "Black"
+            ],
+            "lighting": "top_lighting"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Redheaded girl"
+          ],
+          "emotional_tone": "hostile",
+          "source": "pipeline",
+          "duration": 1.8333333333333144
+        },
+        {
+          "id": "sh-20",
+          "order": 20,
+          "start_time": 459.4583333333333,
+          "end_time": 464.2916666666667,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "over-the-shoulder",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "A woman with blonde hair listens to another person standing behind her telling her she smells, looking downcast.",
+            "dominant_colors": [
+              "Grey",
+              "Blonde"
+            ],
+            "lighting": "top_lighting"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Sophie"
+          ],
+          "emotional_tone": "humiliated",
+          "source": "pipeline",
+          "duration": 4.833333333333371
+        },
+        {
+          "id": "sh-21",
+          "order": 21,
+          "start_time": 464.2916666666667,
+          "end_time": 475.0833333333333,
+          "cinematography": {
+            "shot_size": "CU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "pan"
+          },
+          "visual": {
+            "description": "A close-up shot focuses on the profile of a young woman with blonde hair as she stands alone in the locker room, visibly upset before turning to the showers.",
+            "dominant_colors": [
+              "Grey",
+              "Shadows"
+            ],
+            "lighting": "top_lighting"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Sophie"
+          ],
+          "emotional_tone": "melancholic",
+          "source": "pipeline",
+          "duration": 10.791666666666629
+        },
+        {
+          "id": "sh-22",
+          "order": 22,
+          "start_time": 475.0833333333333,
+          "end_time": 480.0,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "A person with wet, blonde hair stands in a shower with water cascading down their back, washing off the sweat and stress of the day.",
+            "dominant_colors": [
+              "Grey",
+              "Skin Tones"
+            ],
+            "lighting": "dim"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 0.9
+          },
+          "characters_visible": [
+            "Sophie"
+          ],
+          "emotional_tone": "vulnerable",
+          "source": "pipeline",
+          "duration": 4.916666666666686
+        }
+      ],
+      "duration": 120.0,
+      "shot_count": 22
+    },
+    {
+      "id": 5,
+      "title": "BT Segment 5",
+      "summary": "BT Segment 5",
+      "start_time": 480.0,
+      "end_time": 600.0,
+      "location": "A communal shower room followed by an old-fashioned medical examination room.",
+      "characters": [
+        "Young Woman",
+        "Older Woman"
+      ],
+      "mood": "Eerie, clinical, tense, and unsettling.",
+      "shots": [
+        {
+          "id": "sh-1",
+          "order": 1,
+          "start_time": 480.0,
+          "end_time": 488.9166666666667,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "group",
+            "camera_angle": "eye-level",
+            "camera_movement": "pan"
+          },
+          "visual": {
+            "description": "A woman stands in a shower with water pouring over her back. The camera pans across a dimly lit, steamy communal shower room showing young women washing themselves.",
+            "dominant_colors": [
+              "Grey",
+              "Muted Skin Tones"
+            ],
+            "lighting": "low-key, diffused"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 1.0
+          },
+          "characters_visible": [
+            "Young Woman"
+          ],
+          "emotional_tone": "mysterious",
+          "source": "pipeline",
+          "duration": 8.916666666666686
+        },
+        {
+          "id": "sh-2",
+          "order": 2,
+          "start_time": 488.9166666666667,
+          "end_time": 519.7916666666666,
+          "cinematography": {
+            "shot_size": "MCU",
+            "shot_type": "group",
+            "camera_angle": "eye-level",
+            "camera_movement": "pan"
+          },
+          "visual": {
+            "description": "A person with dreadlocks stands in a dimly lit, steamy shower stall. The camera continues to slowly pan through the room, focusing on different young women, including one with blonde hair looking back. The atmosphere remains thick with steam.",
+            "dominant_colors": [
+              "Grey",
+              "Muted Skin Tones"
+            ],
+            "lighting": "low-key, diffused"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 1.0
+          },
+          "characters_visible": [
+            "Young Woman"
+          ],
+          "emotional_tone": "eerie",
+          "source": "pipeline",
+          "duration": 30.874999999999943
+        },
+        {
+          "id": "sh-3",
+          "order": 3,
+          "start_time": 519.7916666666666,
+          "end_time": 526.8333333333334,
+          "cinematography": {
+            "shot_size": "ECU",
+            "camera_angle": "eye-level",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "Several leeches are attached to the glass of a container filled with white stones. The dark creatures slither against the condensation-covered glass in a tight macro shot.",
+            "dominant_colors": [
+              "Black",
+              "Grey",
+              "White"
+            ],
+            "lighting": "soft"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 1.0
+          },
+          "emotional_tone": "unsettling",
+          "source": "pipeline",
+          "duration": 7.0416666666667425
+        },
+        {
+          "id": "sh-4",
+          "order": 4,
+          "start_time": 526.8333333333334,
+          "end_time": 531.7916666666666,
+          "cinematography": {
+            "shot_size": "MS",
+            "shot_type": "two-shot",
+            "camera_angle": "eye-level",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "An older woman in a coat puts on gloves while looking toward a younger woman. They are in a clinic room with green walls and soft window light as the older woman remarks on 'old medicine'.",
+            "dominant_colors": [
+              "Green",
+              "White",
+              "Brown"
+            ],
+            "lighting": "soft, natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 1.0
+          },
+          "characters_visible": [
+            "Older Woman",
+            "Young Woman"
+          ],
+          "emotional_tone": "clinical",
+          "source": "pipeline",
+          "duration": 4.9583333333332575
+        },
+        {
+          "id": "sh-5",
+          "order": 5,
+          "start_time": 531.7916666666666,
+          "end_time": 535.125,
+          "cinematography": {
+            "shot_size": "ECU",
+            "camera_angle": "eye-level",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "A close-up of a leech moving against a glass surface. A single dark leech explores the wet boundary of its enclosure with a blurred background.",
+            "dominant_colors": [
+              "Black",
+              "Grey"
+            ],
+            "lighting": "soft"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 1.0
+          },
+          "emotional_tone": "unsettling",
+          "source": "pipeline",
+          "duration": 3.3333333333333712
+        },
+        {
+          "id": "sh-6",
+          "order": 6,
+          "start_time": 535.125,
+          "end_time": 540.8333333333334,
+          "cinematography": {
+            "shot_size": "CU",
+            "shot_type": "over-the-shoulder",
+            "camera_angle": "eye-level",
+            "camera_movement": "handheld"
+          },
+          "visual": {
+            "description": "An older woman looks intensely at a younger woman while holding a tool. She steps close to her patient in the softly lit clinic, speaking directly and preparing for an examination.",
+            "dominant_colors": [
+              "Green",
+              "Skin Tones"
+            ],
+            "lighting": "soft"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 1.0
+          },
+          "characters_visible": [
+            "Older Woman",
+            "Young Woman"
+          ],
+          "emotional_tone": "tense",
+          "source": "pipeline",
+          "duration": 5.708333333333371
+        },
+        {
+          "id": "sh-7",
+          "order": 7,
+          "start_time": 540.8333333333334,
+          "end_time": 543.375,
+          "cinematography": {
+            "shot_size": "CU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "An older woman uses a tongue depressor to examine a young woman's throat. The young woman opens her mouth wide in a tight framing of her face.",
+            "dominant_colors": [
+              "Skin Tones"
+            ],
+            "lighting": "soft"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 1.0
+          },
+          "characters_visible": [
+            "Young Woman",
+            "Older Woman"
+          ],
+          "emotional_tone": "vulnerable",
+          "source": "pipeline",
+          "duration": 2.5416666666666288
+        },
+        {
+          "id": "sh-8",
+          "order": 8,
+          "start_time": 543.375,
+          "end_time": 546.125,
+          "cinematography": {
+            "shot_size": "CU",
+            "shot_type": "over-the-shoulder",
+            "camera_angle": "eye-level",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "An older woman speaks directly to a younger woman during an examination. Seen over the young woman's shoulder, she instructs her patient to roll up her shirt.",
+            "dominant_colors": [
+              "Green",
+              "Skin Tones"
+            ],
+            "lighting": "soft"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 1.0
+          },
+          "characters_visible": [
+            "Older Woman",
+            "Young Woman"
+          ],
+          "emotional_tone": "authoritative",
+          "source": "pipeline",
+          "duration": 2.75
+        },
+        {
+          "id": "sh-9",
+          "order": 9,
+          "start_time": 546.125,
+          "end_time": 561.5416666666666,
+          "cinematography": {
+            "shot_size": "MS",
+            "shot_type": "two-shot",
+            "camera_angle": "eye-level",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "A young woman lifts her shirt to expose her abdomen while an older woman watches. She stands up in the clinic room to bare her skin, while the older woman critically observes.",
+            "dominant_colors": [
+              "Green",
+              "Grey",
+              "Skin Tones"
+            ],
+            "lighting": "natural"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 1.0
+          },
+          "characters_visible": [
+            "Young Woman",
+            "Older Woman"
+          ],
+          "emotional_tone": "exposed",
+          "source": "pipeline",
+          "duration": 15.416666666666629
+        },
+        {
+          "id": "sh-10",
+          "order": 10,
+          "start_time": 561.5416666666666,
+          "end_time": 566.75,
+          "cinematography": {
+            "shot_size": "CU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "A young woman looks down with a contemplative expression. She turns her face slightly downward as she listens to remarks about daughters robbing their mothers of beauty.",
+            "dominant_colors": [
+              "Green",
+              "Skin Tones"
+            ],
+            "lighting": "soft"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 1.0
+          },
+          "characters_visible": [
+            "Young Woman"
+          ],
+          "emotional_tone": "contemplative",
+          "source": "pipeline",
+          "duration": 5.208333333333371
+        },
+        {
+          "id": "sh-11",
+          "order": 11,
+          "start_time": 566.75,
+          "end_time": 571.9583333333334,
+          "cinematography": {
+            "shot_size": "CU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "An older woman looks down while speaking to a person out of frame. Her expression is thoughtful and assessing in a shallow focus shot.",
+            "dominant_colors": [
+              "Green",
+              "Skin Tones"
+            ],
+            "lighting": "soft"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 1.0
+          },
+          "characters_visible": [
+            "Older Woman"
+          ],
+          "emotional_tone": "assessing",
+          "source": "pipeline",
+          "duration": 5.208333333333371
+        },
+        {
+          "id": "sh-12",
+          "order": 12,
+          "start_time": 571.9583333333334,
+          "end_time": 576.4583333333334,
+          "cinematography": {
+            "shot_size": "ECU",
+            "camera_angle": "eye-level",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "A gloved hand presses against a person's skin. A tight macro shot shows the older woman's purple glove firmly palpating the young woman's bare abdomen.",
+            "dominant_colors": [
+              "Purple",
+              "Skin Tones"
+            ],
+            "lighting": "soft"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 1.0
+          },
+          "characters_visible": [
+            "Older Woman",
+            "Young Woman"
+          ],
+          "emotional_tone": "clinical",
+          "source": "pipeline",
+          "duration": 4.5
+        },
+        {
+          "id": "sh-13",
+          "order": 13,
+          "start_time": 576.4583333333334,
+          "end_time": 580.4166666666666,
+          "cinematography": {
+            "shot_size": "CU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "A young woman listens intently with a neutral expression. She keeps a guarded look while asking the older woman if she knew her mother.",
+            "dominant_colors": [
+              "Green",
+              "Skin Tones"
+            ],
+            "lighting": "soft"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 1.0
+          },
+          "characters_visible": [
+            "Young Woman"
+          ],
+          "emotional_tone": "curious",
+          "source": "pipeline",
+          "duration": 3.9583333333332575
+        },
+        {
+          "id": "sh-14",
+          "order": 14,
+          "start_time": 580.4166666666666,
+          "end_time": 583.9166666666666,
+          "cinematography": {
+            "shot_size": "CU",
+            "shot_type": "over-the-shoulder",
+            "camera_angle": "eye-level",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "An older woman leans in to speak with a person standing before her. In an over-the-shoulder shot, she answers the young woman intimately, recounting a past memory.",
+            "dominant_colors": [
+              "Skin Tones",
+              "Green"
+            ],
+            "lighting": "soft"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 1.0
+          },
+          "characters_visible": [
+            "Older Woman",
+            "Young Woman"
+          ],
+          "emotional_tone": "intimate",
+          "source": "pipeline",
+          "duration": 3.5
+        },
+        {
+          "id": "sh-15",
+          "order": 15,
+          "start_time": 583.9166666666666,
+          "end_time": 586.125,
+          "cinematography": {
+            "shot_size": "CU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "A young woman looks toward the right side of the frame, visibly absorbing the unsettling information she is being told about her mother's past.",
+            "dominant_colors": [
+              "Green",
+              "Skin Tones"
+            ],
+            "lighting": "soft"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 1.0
+          },
+          "characters_visible": [
+            "Young Woman"
+          ],
+          "emotional_tone": "absorbed",
+          "source": "pipeline",
+          "duration": 2.2083333333333712
+        },
+        {
+          "id": "sh-16",
+          "order": 16,
+          "start_time": 586.125,
+          "end_time": 588.9166666666666,
+          "cinematography": {
+            "shot_size": "CU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "An older woman continues to speak while standing in a room. Her face remains somber and direct as she concludes her thought about the young woman's mother.",
+            "dominant_colors": [
+              "Skin Tones"
+            ],
+            "lighting": "soft"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 1.0
+          },
+          "characters_visible": [
+            "Older Woman"
+          ],
+          "emotional_tone": "somber",
+          "source": "pipeline",
+          "duration": 2.7916666666666288
+        },
+        {
+          "id": "sh-17",
+          "order": 17,
+          "start_time": 588.9166666666666,
+          "end_time": 600.0,
+          "cinematography": {
+            "shot_size": "CU",
+            "shot_type": "single",
+            "camera_angle": "eye-level",
+            "camera_movement": "static"
+          },
+          "visual": {
+            "description": "A young woman turns her head slightly in a room with a blurred background. She processes the grim words about her mother, her expression troubled.",
+            "dominant_colors": [
+              "Green",
+              "Skin Tones"
+            ],
+            "lighting": "soft"
+          },
+          "audio": {},
+          "editorial": {
+            "confidence": 1.0
+          },
+          "characters_visible": [
+            "Young Woman"
+          ],
+          "emotional_tone": "troubled",
+          "source": "pipeline",
+          "duration": 11.083333333333371
+        }
+      ],
+      "duration": 120.0,
+      "shot_count": 17
+    }
+  ]
+}

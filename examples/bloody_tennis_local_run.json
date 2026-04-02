@@ -1,0 +1,3652 @@
+{
+  "metadata": {
+    "chapter_count": 6,
+    "analyzed_count": 5,
+    "failed_count": 1,
+    "analysis_mode": "hybrid",
+    "model": "gemini-3.1-pro-preview",
+    "source_file": "clip.mp4",
+    "wall_clock_seconds": 407.3
+  },
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "BT Segment 1",
+      "start_time": 0.0,
+      "end_time": 120.0,
+      "camera_movements": [
+        "zoom",
+        "tracking",
+        "handheld"
+      ],
+      "characters": [
+        "Driver",
+        "Passenger"
+      ],
+      "dominant_colors": [
+        "Brown",
+        "Grey",
+        "Beige",
+        "Red"
+      ],
+      "visual_style": "Earthy, muted tones with a desolate, realistic aesthetic and deliberate pacing",
+      "lighting_style": "Natural, overcast daylight with soft, diffused shadows and subtle interior contrast",
+      "setting_context": "A winding mountain road in a dry, rugged landscape, moving into the interior of a vintage car",
+      "mood": "Quiet, somewhat tense, atmospheric, and observant",
+      "visual_motifs": [
+        "winding mountain roads",
+        "car interior",
+        "rearview mirror reflections",
+        "red text credits"
+      ],
+      "scenes": [
+        {
+          "order": 1,
+          "description": "Opening credits in red typography overlay a sweeping wide shot anticipating a car traveling along a winding mountain road in a rugged desert landscape under an overcast sky.",
+          "scene_type": "establishing",
+          "shot_size": "wide",
+          "camera_movement": "zoom",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "deep_focus",
+            "layered_depth"
+          ],
+          "lighting": "natural",
+          "visible_characters": [],
+          "dominant_colors": [
+            "Brown",
+            "Grey",
+            "Red"
+          ],
+          "emotional_tone": "mysterious",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 0.0,
+          "end_time": 34.708333333333336,
+          "duration": 34.708333333333336,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 17.354166666666668,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 17.354166666666668
+          }
+        },
+        {
+          "order": 2,
+          "description": "A high-angle tracking shot reveals a car as it continues driving down a winding road through a mountainous, arid terrain while red title credits continue to appear.",
+          "scene_type": "tracking",
+          "shot_size": "wide",
+          "camera_movement": "tracking",
+          "camera_angle": "high_angle",
+          "composition": [
+            "leading_lines",
+            "deep_focus",
+            "asymmetrical_framing"
+          ],
+          "lighting": "natural",
+          "visible_characters": [],
+          "dominant_colors": [
+            "Brown",
+            "Grey",
+            "Red"
+          ],
+          "emotional_tone": "isolated",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 34.708333333333336,
+          "end_time": 54.333333333333336,
+          "duration": 19.625,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 44.520833333333336,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 44.520833333333336
+          }
+        },
+        {
+          "order": 3,
+          "description": "Inside the car, a man in profile drives the car while holding a dark fruit in his hand, taking a bite as natural light filters through the side window.",
+          "scene_type": "single",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "off_center_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural",
+          "visible_characters": [
+            "Driver"
+          ],
+          "dominant_colors": [
+            "Brown",
+            "Beige",
+            "Red"
+          ],
+          "emotional_tone": "casual",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 54.333333333333336,
+          "end_time": 61.0,
+          "duration": 6.666666666666664,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 57.66666666666667,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 57.66666666666667
+          }
+        },
+        {
+          "order": 4,
+          "description": "A close-up insert shot shows a person's lap inside the car, where scattered pink flower petals rest gently on denim jeans and a light pink shirt.",
+          "scene_type": "insert",
+          "shot_size": "close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "high_angle",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural",
+          "visible_characters": [
+            "Driver"
+          ],
+          "dominant_colors": [
+            "Blue",
+            "Pink",
+            "Brown"
+          ],
+          "emotional_tone": "surreal",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 61.0,
+          "end_time": 64.25,
+          "duration": 3.25,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 62.625,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 62.625
+          }
+        },
+        {
+          "order": 5,
+          "description": "A young person sits in the backseat of the car while wearing headphones, looking out the window and quietly speaking on her mobile phone.",
+          "scene_type": "single",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "off_center_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural",
+          "visible_characters": [
+            "Passenger"
+          ],
+          "dominant_colors": [
+            "White",
+            "Brown",
+            "Grey"
+          ],
+          "emotional_tone": "tense",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 64.25,
+          "end_time": 86.625,
+          "duration": 22.375,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 75.4375,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 75.4375
+          }
+        },
+        {
+          "order": 6,
+          "description": "A deep-focus two-shot from the front shows the driver looking ahead at the road while a passenger sits quietly in the backseat, taking out her earphone as a conversation starts.",
+          "scene_type": "two_shot",
+          "shot_size": "medium",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "layered_depth",
+            "deep_focus",
+            "off_center_subject"
+          ],
+          "lighting": "natural",
+          "visible_characters": [
+            "Driver",
+            "Passenger"
+          ],
+          "dominant_colors": [
+            "Brown",
+            "White",
+            "Beige"
+          ],
+          "emotional_tone": "neutral",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 86.625,
+          "end_time": 94.83333333333333,
+          "duration": 8.208333333333329,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 90.72916666666666,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 90.72916666666666
+          }
+        },
+        {
+          "order": 7,
+          "description": "Framed from behind the seats, the driver looks out the window while gripping the steering wheel, making a casual remark to his passenger.",
+          "scene_type": "single",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "shoulder_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural",
+          "visible_characters": [
+            "Driver"
+          ],
+          "dominant_colors": [
+            "Brown",
+            "Beige",
+            "Grey"
+          ],
+          "emotional_tone": "conversational",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 94.83333333333333,
+          "end_time": 100.79166666666667,
+          "duration": 5.958333333333343,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 97.8125,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 97.8125
+          }
+        },
+        {
+          "order": 8,
+          "description": "A close-up captures the young passenger as she gazes out the window from the backseat of the car, listening tentatively to the driver's question.",
+          "scene_type": "reaction",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "off_center_subject",
+            "shallow_depth_of_field",
+            "frame_within_frame"
+          ],
+          "lighting": "natural",
+          "visible_characters": [
+            "Passenger"
+          ],
+          "dominant_colors": [
+            "White",
+            "Grey",
+            "Brown"
+          ],
+          "emotional_tone": "tentative",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 100.79166666666667,
+          "end_time": 104.70833333333333,
+          "duration": 3.916666666666657,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 102.75,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 102.75
+          }
+        },
+        {
+          "order": 9,
+          "description": "The male driver looks ahead and smiles genially while steering the vehicle, framed in a close-up from the passenger side.",
+          "scene_type": "single",
+          "shot_size": "close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "off_center_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural",
+          "visible_characters": [
+            "Driver"
+          ],
+          "dominant_colors": [
+            "Brown",
+            "Beige",
+            "Grey"
+          ],
+          "emotional_tone": "friendly",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 104.70833333333333,
+          "end_time": 108.625,
+          "duration": 3.9166666666666714,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 106.66666666666666,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 106.66666666666666
+          }
+        },
+        {
+          "order": 10,
+          "description": "The young passenger smiles slightly while looking down inside the car, offering a polite reaction to the driver's conversation.",
+          "scene_type": "reaction",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "off_center_subject",
+            "shallow_depth_of_field",
+            "frame_within_frame"
+          ],
+          "lighting": "natural",
+          "visible_characters": [
+            "Passenger"
+          ],
+          "dominant_colors": [
+            "White",
+            "Grey",
+            "Brown"
+          ],
+          "emotional_tone": "reserved",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 108.625,
+          "end_time": 112.29166666666667,
+          "duration": 3.6666666666666714,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 110.45833333333334,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 110.45833333333334
+          }
+        },
+        {
+          "order": 11,
+          "description": "An insert shot frames the driver's face, clearly reflected in the rearview mirror of the car as he drives forward.",
+          "scene_type": "insert",
+          "shot_size": "close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "frame_within_frame",
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural",
+          "visible_characters": [
+            "Driver"
+          ],
+          "dominant_colors": [
+            "Brown",
+            "Grey",
+            "Beige"
+          ],
+          "emotional_tone": "intimate",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 112.29166666666667,
+          "end_time": 116.29166666666667,
+          "duration": 4.0,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 114.29166666666667,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 114.29166666666667
+          }
+        },
+        {
+          "order": 12,
+          "description": "An exterior tracking shot shows the driver navigating the vintage brown car along a winding road flanked by a rugged stone wall.",
+          "scene_type": "tracking",
+          "shot_size": "medium_wide",
+          "camera_movement": "tracking",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "leading_lines",
+            "deep_focus"
+          ],
+          "lighting": "natural",
+          "visible_characters": [
+            "Driver"
+          ],
+          "dominant_colors": [
+            "Brown",
+            "Grey",
+            "Yellow"
+          ],
+          "emotional_tone": "observational",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 116.29166666666667,
+          "end_time": 120.0,
+          "duration": 3.7083333333333286,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 118.14583333333334,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 118.14583333333334
+          }
+        }
+      ],
+      "scene_types": [
+        "establishing",
+        "tracking",
+        "single",
+        "insert",
+        "two_shot",
+        "reaction"
+      ],
+      "model": "gemini-3.1-pro-preview",
+      "analysis_strategy": "chunked_inline_v1",
+      "detected_scene_count": 12,
+      "analyzed_scene_count": 12
+    },
+    {
+      "chapter_number": 2,
+      "title": "BT Segment 2",
+      "start_time": 120.0,
+      "end_time": 240.0,
+      "camera_movements": [
+        "pan",
+        "dolly_in",
+        "tracking",
+        "static"
+      ],
+      "characters": [
+        "Sophie",
+        "Mary Tyrone"
+      ],
+      "dominant_colors": [
+        "Red",
+        "Green",
+        "Tan",
+        "White"
+      ],
+      "visual_style": "Cinematic and slightly desaturated, emphasizing the rich textures of the historical architecture and vibrant flora.",
+      "lighting_style": "Natural, soft sunlight with occasional lens flares and dappled shadows.",
+      "setting_context": "The isolated, prestigious Mary Tyrone Tennis Academy, featuring grand red stone buildings and lush tropical gardens.",
+      "mood": "Imposing, mysterious, and authoritative with a sense of awe.",
+      "visual_motifs": [
+        "old-world architecture",
+        "sunlight through leaves",
+        "heavy wooden doors"
+      ],
+      "scenes": [
+        {
+          "order": 1,
+          "description": "A tan car enters the entrance of a red building complex, driving up a winding path toward the grand estate nestled in the hills.",
+          "scene_type": "establishing",
+          "shot_size": "wide",
+          "camera_movement": "pan",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "deep_focus"
+          ],
+          "lighting": "natural, daylight",
+          "visible_characters": [
+            "Sophie"
+          ],
+          "dominant_colors": [
+            "Tan",
+            "Red"
+          ],
+          "emotional_tone": "anticipatory",
+          "confidence": 0.95,
+          "evidence_time": 125.0,
+          "start_time": 120.0,
+          "end_time": 131.875,
+          "duration": 11.875,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 125.9375,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 125.9375
+          }
+        },
+        {
+          "order": 2,
+          "description": "A young woman stands holding a bag in front of a wooden gate, getting out of the car and approaching the academy entrance with her belongings.",
+          "scene_type": "tracking",
+          "shot_size": "full",
+          "camera_movement": "dolly_in",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "leading_lines"
+          ],
+          "lighting": "natural, daylight",
+          "visible_characters": [
+            "Sophie"
+          ],
+          "dominant_colors": [
+            "Red",
+            "Brown",
+            "White"
+          ],
+          "emotional_tone": "curious",
+          "confidence": 0.95,
+          "evidence_time": 135.0,
+          "start_time": 131.875,
+          "end_time": 141.125,
+          "duration": 9.25,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 136.5,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 136.5
+          }
+        },
+        {
+          "order": 3,
+          "description": "A young woman with a bag looks upward toward the red building as she pushes through the heavy wooden doors and steps inside the courtyard.",
+          "scene_type": "single",
+          "shot_size": "medium",
+          "camera_movement": "tracking",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "foreground_framing"
+          ],
+          "lighting": "natural, daylight",
+          "visible_characters": [
+            "Sophie"
+          ],
+          "dominant_colors": [
+            "Brown",
+            "White"
+          ],
+          "emotional_tone": "awe-struck",
+          "confidence": 0.95,
+          "evidence_time": 142.0,
+          "start_time": 141.125,
+          "end_time": 143.08333333333334,
+          "duration": 1.9583333333333428,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 142.10416666666669,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 142.10416666666669
+          }
+        },
+        {
+          "order": 4,
+          "description": "A young woman wearing a white jacket looks off into the distance, taking in the surroundings as a voice welcomes her to the academy.",
+          "scene_type": "single",
+          "shot_size": "medium_close_up",
+          "camera_movement": "tracking",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural, daylight",
+          "visible_characters": [
+            "Sophie"
+          ],
+          "dominant_colors": [
+            "White",
+            "Red"
+          ],
+          "emotional_tone": "wonder",
+          "confidence": 0.95,
+          "evidence_time": 148.0,
+          "start_time": 143.08333333333334,
+          "end_time": 154.66666666666666,
+          "duration": 11.583333333333314,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 148.875,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 148.875
+          }
+        },
+        {
+          "order": 5,
+          "description": "An older woman in a red and black cardigan stands on a balcony, officially welcoming the newcomer to the Mary Tyrone Tennis Academy.",
+          "scene_type": "single",
+          "shot_size": "medium_wide",
+          "camera_movement": "static",
+          "camera_angle": "low_angle",
+          "composition": [
+            "centered_subject",
+            "deep_focus"
+          ],
+          "lighting": "natural, daylight",
+          "visible_characters": [
+            "Mary Tyrone"
+          ],
+          "dominant_colors": [
+            "Red",
+            "Green"
+          ],
+          "emotional_tone": "authoritative",
+          "confidence": 0.95,
+          "evidence_time": 157.0,
+          "start_time": 154.66666666666666,
+          "end_time": 159.58333333333334,
+          "duration": 4.916666666666686,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 157.125,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 157.125
+          }
+        },
+        {
+          "order": 6,
+          "description": "A young woman with a bag stands alone in a courtyard area, framed over the shoulder from the balcony perspective as the older woman interrupts her greeting.",
+          "scene_type": "over_shoulder",
+          "shot_size": "medium_wide",
+          "camera_movement": "static",
+          "camera_angle": "high_angle",
+          "composition": [
+            "off_center_subject",
+            "deep_focus"
+          ],
+          "lighting": "natural, daylight",
+          "visible_characters": [
+            "Sophie",
+            "Mary Tyrone"
+          ],
+          "dominant_colors": [
+            "Red",
+            "White"
+          ],
+          "emotional_tone": "subservient",
+          "confidence": 0.95,
+          "evidence_time": 161.0,
+          "start_time": 159.58333333333334,
+          "end_time": 163.33333333333334,
+          "duration": 3.75,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 161.45833333333334,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 161.45833333333334
+          }
+        },
+        {
+          "order": 7,
+          "description": "Sunlight filters through the palm tree fronds above, offering a momentary glimpse of the tranquil academy environment overhead.",
+          "scene_type": "cutaway",
+          "shot_size": "wide",
+          "camera_movement": "pan",
+          "camera_angle": "worms_eye",
+          "composition": [
+            "layered_depth",
+            "silhouette"
+          ],
+          "lighting": "natural, high_contrast",
+          "visible_characters": [],
+          "dominant_colors": [
+            "Green",
+            "White"
+          ],
+          "emotional_tone": "peaceful",
+          "confidence": 0.95,
+          "evidence_time": 165.0,
+          "start_time": 163.33333333333334,
+          "end_time": 167.41666666666666,
+          "duration": 4.083333333333314,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 165.375,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 165.375
+          }
+        },
+        {
+          "order": 8,
+          "description": "A young woman follows an older woman walking through a garden, the camera tracking them from behind as they traverse a stone pathway.",
+          "scene_type": "tracking",
+          "shot_size": "medium",
+          "camera_movement": "tracking",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "layered_depth"
+          ],
+          "lighting": "natural, daylight",
+          "visible_characters": [
+            "Sophie",
+            "Mary Tyrone"
+          ],
+          "dominant_colors": [
+            "Green",
+            "White",
+            "Red"
+          ],
+          "emotional_tone": "focused",
+          "confidence": 0.95,
+          "evidence_time": 169.0,
+          "start_time": 167.41666666666666,
+          "end_time": 172.0,
+          "duration": 4.583333333333343,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 169.70833333333331,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 169.70833333333331
+          }
+        },
+        {
+          "order": 9,
+          "description": "An older woman looks up while talking to someone off-screen, walking backwards down the path as she explains the historical origins of tennis in the 13th century.",
+          "scene_type": "single",
+          "shot_size": "medium_close_up",
+          "camera_movement": "tracking",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural, daylight",
+          "visible_characters": [
+            "Mary Tyrone"
+          ],
+          "dominant_colors": [
+            "Red",
+            "Black",
+            "Green"
+          ],
+          "emotional_tone": "passionate",
+          "confidence": 0.95,
+          "evidence_time": 178.0,
+          "start_time": 172.0,
+          "end_time": 185.29166666666666,
+          "duration": 13.291666666666657,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 178.64583333333331,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 178.64583333333331
+          }
+        },
+        {
+          "order": 10,
+          "description": "An older woman speaks with her hands raised in a courtyard, pausing her walk to emphasize that she molds the 'creme de la creme' of tennis.",
+          "scene_type": "single",
+          "shot_size": "medium_close_up",
+          "camera_movement": "dolly_in",
+          "camera_angle": "low_angle",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural, daylight",
+          "visible_characters": [
+            "Mary Tyrone"
+          ],
+          "dominant_colors": [
+            "Green",
+            "Red"
+          ],
+          "emotional_tone": "intense",
+          "confidence": 0.95,
+          "evidence_time": 186.0,
+          "start_time": 185.29166666666666,
+          "end_time": 188.41666666666666,
+          "duration": 3.125,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 186.85416666666666,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 186.85416666666666
+          }
+        },
+        {
+          "order": 11,
+          "description": "A young woman looks up while walking outdoors, absorbing the older woman's words and observing the environment with wide eyes.",
+          "scene_type": "single",
+          "shot_size": "medium_close_up",
+          "camera_movement": "tracking",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural, daylight",
+          "visible_characters": [
+            "Sophie"
+          ],
+          "dominant_colors": [
+            "White",
+            "Green"
+          ],
+          "emotional_tone": "captivated",
+          "confidence": 0.95,
+          "evidence_time": 190.0,
+          "start_time": 188.41666666666666,
+          "end_time": 192.70833333333334,
+          "duration": 4.291666666666686,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 190.5625,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 190.5625
+          }
+        },
+        {
+          "order": 12,
+          "description": "Sunlight shines through tree branches overhead, creating a bright flare and setting an ethereal tone for the scene.",
+          "scene_type": "cutaway",
+          "shot_size": "wide",
+          "camera_movement": "pan",
+          "camera_angle": "worms_eye",
+          "composition": [
+            "layered_depth",
+            "silhouette"
+          ],
+          "lighting": "natural, high_contrast",
+          "visible_characters": [],
+          "dominant_colors": [
+            "Green",
+            "White"
+          ],
+          "emotional_tone": "mystical",
+          "confidence": 0.95,
+          "evidence_time": 195.0,
+          "start_time": 192.70833333333334,
+          "end_time": 198.375,
+          "duration": 5.666666666666657,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 195.54166666666669,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 195.54166666666669
+          }
+        },
+        {
+          "order": 13,
+          "description": "A young woman walks across a stone courtyard seen through a window, as the older woman gives a tour of the academy's historical facilities, including the main mansion.",
+          "scene_type": "establishing",
+          "shot_size": "wide",
+          "camera_movement": "static",
+          "camera_angle": "eye_level",
+          "composition": [
+            "frame_within_frame",
+            "deep_focus"
+          ],
+          "lighting": "natural, daylight",
+          "visible_characters": [
+            "Sophie",
+            "Mary Tyrone"
+          ],
+          "dominant_colors": [
+            "Red",
+            "Brown"
+          ],
+          "emotional_tone": "informative",
+          "confidence": 0.95,
+          "evidence_time": 202.0,
+          "start_time": 198.375,
+          "end_time": 207.25,
+          "duration": 8.875,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 202.8125,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 202.8125
+          }
+        },
+        {
+          "order": 14,
+          "description": "A young woman walks alongside an older woman toward a red building, navigating stone steps as the older woman points out the dormitory and training areas.",
+          "scene_type": "two_shot",
+          "shot_size": "medium_wide",
+          "camera_movement": "tracking",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "deep_focus"
+          ],
+          "lighting": "natural, daylight",
+          "visible_characters": [
+            "Sophie",
+            "Mary Tyrone"
+          ],
+          "dominant_colors": [
+            "Red",
+            "White"
+          ],
+          "emotional_tone": "guided",
+          "confidence": 0.95,
+          "evidence_time": 211.0,
+          "start_time": 207.25,
+          "end_time": 215.58333333333334,
+          "duration": 8.333333333333343,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 211.41666666666669,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 211.41666666666669
+          }
+        },
+        {
+          "order": 15,
+          "description": "A young woman glances back while walking through a courtyard, instructed to wait before meeting the other students.",
+          "scene_type": "single",
+          "shot_size": "full",
+          "camera_movement": "static",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "deep_focus"
+          ],
+          "lighting": "natural, daylight",
+          "visible_characters": [
+            "Sophie"
+          ],
+          "dominant_colors": [
+            "Red",
+            "Grey",
+            "White"
+          ],
+          "emotional_tone": "obedient",
+          "confidence": 0.95,
+          "evidence_time": 217.0,
+          "start_time": 215.58333333333334,
+          "end_time": 218.625,
+          "duration": 3.041666666666657,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 217.10416666666669,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 217.10416666666669
+          }
+        },
+        {
+          "order": 16,
+          "description": "An older woman in a cardigan speaks to someone off-camera, aggressively demanding complete focus and absolute lack of distractions over the next six weeks.",
+          "scene_type": "single",
+          "shot_size": "medium_close_up",
+          "camera_movement": "static",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural, daylight",
+          "visible_characters": [
+            "Mary Tyrone"
+          ],
+          "dominant_colors": [
+            "Red",
+            "Black",
+            "Green"
+          ],
+          "emotional_tone": "demanding",
+          "confidence": 0.95,
+          "evidence_time": 221.0,
+          "start_time": 218.625,
+          "end_time": 224.20833333333334,
+          "duration": 5.583333333333343,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 221.41666666666669,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 221.41666666666669
+          }
+        },
+        {
+          "order": 17,
+          "description": "A young woman listens intently in a garden courtyard, agreeing to the strict rules but mentioning she must first check in with her father.",
+          "scene_type": "single",
+          "shot_size": "medium_close_up",
+          "camera_movement": "static",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural, daylight",
+          "visible_characters": [
+            "Sophie"
+          ],
+          "dominant_colors": [
+            "White",
+            "Red"
+          ],
+          "emotional_tone": "submissive",
+          "confidence": 0.95,
+          "evidence_time": 226.0,
+          "start_time": 224.20833333333334,
+          "end_time": 228.45833333333334,
+          "duration": 4.25,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 226.33333333333334,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 226.33333333333334
+          }
+        },
+        {
+          "order": 18,
+          "description": "An older woman speaks while gesturing with her hand, firmly stating that she is the authority figure now and that the father will be informed on a need-to-know basis.",
+          "scene_type": "single",
+          "shot_size": "medium_close_up",
+          "camera_movement": "dolly_in",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural, daylight",
+          "visible_characters": [
+            "Mary Tyrone"
+          ],
+          "dominant_colors": [
+            "Red",
+            "Black"
+          ],
+          "emotional_tone": "dominating",
+          "confidence": 0.95,
+          "evidence_time": 232.0,
+          "start_time": 228.45833333333334,
+          "end_time": 236.625,
+          "duration": 8.166666666666657,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 232.54166666666669,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 232.54166666666669
+          }
+        },
+        {
+          "order": 19,
+          "description": "A young woman looks down with a contemplative expression, visibly unnerved and isolated by the Headmistress's controlling final statement.",
+          "scene_type": "reaction",
+          "shot_size": "medium_close_up",
+          "camera_movement": "static",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural, daylight",
+          "visible_characters": [
+            "Sophie"
+          ],
+          "dominant_colors": [
+            "White",
+            "Red"
+          ],
+          "emotional_tone": "anxious",
+          "confidence": 0.95,
+          "evidence_time": 238.0,
+          "start_time": 236.625,
+          "end_time": 240.0,
+          "duration": 3.375,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 238.3125,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 238.3125
+          }
+        }
+      ],
+      "scene_types": [
+        "establishing",
+        "tracking",
+        "single",
+        "over_shoulder",
+        "cutaway",
+        "two_shot",
+        "reaction"
+      ],
+      "model": "gemini-3.1-pro-preview",
+      "analysis_strategy": "chunked_inline_v1",
+      "detected_scene_count": 19,
+      "analyzed_scene_count": 19
+    },
+    {
+      "chapter_number": 3,
+      "title": "BT Segment 3",
+      "start_time": 240.0,
+      "end_time": 360.0,
+      "camera_movements": [
+        "handheld",
+        "tracking",
+        "pan",
+        "rack_focus"
+      ],
+      "characters": [
+        "Frieda",
+        "Coach",
+        "Nelly",
+        "Bana",
+        "Girl with buns",
+        "Dark-haired girl"
+      ],
+      "dominant_colors": [
+        "Red",
+        "White",
+        "Black",
+        "Green"
+      ],
+      "visual_style": "Raw, documentary-style sports drama with tight, intimate framing and shallow depth of field",
+      "lighting_style": "Bright, natural daytime sunlight with harsh shadows",
+      "setting_context": "An outdoor red clay tennis court and surrounding red walls of the academy",
+      "mood": "Tense, competitive, and intimidating",
+      "visual_motifs": [
+        "solid red walls",
+        "tennis rackets",
+        "intense stares",
+        "sweat"
+      ],
+      "scenes": [
+        {
+          "order": 1,
+          "description": "A blonde woman in a white jacket looks off to the side, completing a tracking movement.",
+          "scene_type": "single",
+          "shot_size": "medium_close_up",
+          "camera_movement": "tracking",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural_sunlight",
+          "visible_characters": [
+            "Frieda"
+          ],
+          "dominant_colors": [
+            "Red",
+            "White"
+          ],
+          "emotional_tone": "neutral",
+          "confidence": 0.9,
+          "evidence_time": 240.2,
+          "start_time": 240.0,
+          "end_time": 240.5,
+          "duration": 0.5,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 240.25,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 240.25
+          }
+        },
+        {
+          "order": 2,
+          "description": "An older woman in a black and red outfit hands a black smartphone to someone off-camera outside a red building.",
+          "scene_type": "single",
+          "shot_size": "medium",
+          "camera_movement": "handheld",
+          "camera_angle": "low_angle",
+          "composition": [
+            "centered_subject",
+            "deep_focus"
+          ],
+          "lighting": "natural_sunlight",
+          "visible_characters": [
+            "Older woman"
+          ],
+          "dominant_colors": [
+            "Red",
+            "Black",
+            "White"
+          ],
+          "emotional_tone": "dismissive",
+          "confidence": 0.9,
+          "evidence_time": 241.5,
+          "start_time": 240.5,
+          "end_time": 243.04166666666666,
+          "duration": 2.541666666666657,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 241.77083333333331,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 241.77083333333331
+          }
+        },
+        {
+          "order": 3,
+          "description": "A profile view of a blonde woman standing against a solid red wall as she walks carrying a sports bag, turning to look behind her.",
+          "scene_type": "single",
+          "shot_size": "medium_close_up",
+          "camera_movement": "tracking",
+          "camera_angle": "eye_level",
+          "composition": [
+            "off_center_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural_sunlight",
+          "visible_characters": [
+            "Frieda"
+          ],
+          "dominant_colors": [
+            "Red",
+            "White"
+          ],
+          "emotional_tone": "apprehensive",
+          "confidence": 0.95,
+          "evidence_time": 250.0,
+          "start_time": 243.04166666666666,
+          "end_time": 258.6666666666667,
+          "duration": 15.625000000000028,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 250.85416666666669,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 250.85416666666669
+          }
+        },
+        {
+          "order": 4,
+          "description": "The blonde woman looks toward the camera with a neutral, slightly confused expression, framed against the red wall.",
+          "scene_type": "single",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural_sunlight",
+          "visible_characters": [
+            "Frieda"
+          ],
+          "dominant_colors": [
+            "Red",
+            "White"
+          ],
+          "emotional_tone": "confused",
+          "confidence": 0.95,
+          "evidence_time": 262.0,
+          "start_time": 258.6666666666667,
+          "end_time": 265.4166666666667,
+          "duration": 6.75,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 262.0416666666667,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 262.0416666666667
+          }
+        },
+        {
+          "order": 5,
+          "description": "An older man in a white vest talks sternly to the blonde woman on a tennis court, seen from over her shoulder.",
+          "scene_type": "over_shoulder",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "off_center_subject",
+            "foreground_framing"
+          ],
+          "lighting": "natural_sunlight",
+          "visible_characters": [
+            "Coach",
+            "Frieda"
+          ],
+          "dominant_colors": [
+            "White",
+            "Red"
+          ],
+          "emotional_tone": "stern",
+          "confidence": 0.95,
+          "evidence_time": 271.0,
+          "start_time": 265.4166666666667,
+          "end_time": 277.2083333333333,
+          "duration": 11.791666666666629,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 271.3125,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 271.3125
+          }
+        },
+        {
+          "order": 6,
+          "description": "The blonde woman looks ahead with a serious, contemplative expression while being reprimanded.",
+          "scene_type": "single",
+          "shot_size": "close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural_sunlight",
+          "visible_characters": [
+            "Frieda"
+          ],
+          "dominant_colors": [
+            "Red",
+            "White"
+          ],
+          "emotional_tone": "defensive",
+          "confidence": 0.95,
+          "evidence_time": 279.0,
+          "start_time": 277.2083333333333,
+          "end_time": 281.9166666666667,
+          "duration": 4.708333333333371,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 279.5625,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 279.5625
+          }
+        },
+        {
+          "order": 7,
+          "description": "The older man in a white vest speaks aggressively while looking towards the side.",
+          "scene_type": "over_shoulder",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "off_center_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural_sunlight",
+          "visible_characters": [
+            "Coach"
+          ],
+          "dominant_colors": [
+            "White",
+            "Red"
+          ],
+          "emotional_tone": "authoritative",
+          "confidence": 0.95,
+          "evidence_time": 284.0,
+          "start_time": 281.9166666666667,
+          "end_time": 286.7916666666667,
+          "duration": 4.875,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 284.3541666666667,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 284.3541666666667
+          }
+        },
+        {
+          "order": 8,
+          "description": "The blonde woman with a sports bag stands and listens to the coach off-camera, looking chastised.",
+          "scene_type": "single",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural_sunlight",
+          "visible_characters": [
+            "Frieda"
+          ],
+          "dominant_colors": [
+            "Red",
+            "White"
+          ],
+          "emotional_tone": "submissive",
+          "confidence": 0.95,
+          "evidence_time": 291.0,
+          "start_time": 286.7916666666667,
+          "end_time": 295.4583333333333,
+          "duration": 8.666666666666629,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 291.125,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 291.125
+          }
+        },
+        {
+          "order": 9,
+          "description": "Several women with tennis gear sit and stand near a red wall on the court as the coach walks away.",
+          "scene_type": "establishing",
+          "shot_size": "medium_wide",
+          "camera_movement": "pan",
+          "camera_angle": "eye_level",
+          "composition": [
+            "layered_depth",
+            "deep_focus"
+          ],
+          "lighting": "natural_sunlight",
+          "visible_characters": [
+            "Bana",
+            "Coach",
+            "Girl with buns"
+          ],
+          "dominant_colors": [
+            "Red",
+            "Black",
+            "White"
+          ],
+          "emotional_tone": "tense",
+          "confidence": 0.9,
+          "evidence_time": 297.0,
+          "start_time": 295.4583333333333,
+          "end_time": 299.4583333333333,
+          "duration": 4.0,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 297.4583333333333,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 297.4583333333333
+          }
+        },
+        {
+          "order": 10,
+          "description": "A blurred point-of-view shot shows a woman drinking from a bottle while standing on the tennis court, framed over a shoulder.",
+          "scene_type": "point_of_view",
+          "shot_size": "medium",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "foreground_framing",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural_sunlight",
+          "visible_characters": [
+            "Dark-haired girl",
+            "Nelly"
+          ],
+          "dominant_colors": [
+            "Red",
+            "Black"
+          ],
+          "emotional_tone": "observational",
+          "confidence": 0.85,
+          "evidence_time": 302.0,
+          "start_time": 299.4583333333333,
+          "end_time": 306.0,
+          "duration": 6.541666666666686,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 302.72916666666663,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 302.72916666666663
+          }
+        },
+        {
+          "order": 11,
+          "description": "Two women, Frieda and a girl with two buns, sit together on a bench against a red wall as they talk.",
+          "scene_type": "two_shot",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "asymmetrical_framing",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural_sunlight",
+          "visible_characters": [
+            "Frieda",
+            "Girl with buns"
+          ],
+          "dominant_colors": [
+            "Red",
+            "White",
+            "Blonde"
+          ],
+          "emotional_tone": "gossipy",
+          "confidence": 0.95,
+          "evidence_time": 309.0,
+          "start_time": 306.0,
+          "end_time": 312.375,
+          "duration": 6.375,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 309.1875,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 309.1875
+          }
+        },
+        {
+          "order": 12,
+          "description": "A young woman with a ponytail, Nelly, adjusts a strand behind her ear while looking disdainfully across the court.",
+          "scene_type": "single",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural_sunlight",
+          "visible_characters": [
+            "Nelly"
+          ],
+          "dominant_colors": [
+            "Red",
+            "Black"
+          ],
+          "emotional_tone": "arrogant",
+          "confidence": 0.95,
+          "evidence_time": 314.0,
+          "start_time": 312.375,
+          "end_time": 316.1666666666667,
+          "duration": 3.7916666666666856,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 314.27083333333337,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 314.27083333333337
+          }
+        },
+        {
+          "order": 13,
+          "description": "A blonde woman listens as a woman with two small buns sits beside her, explaining the hierarchy of the academy.",
+          "scene_type": "two_shot",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "asymmetrical_framing",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural_sunlight",
+          "visible_characters": [
+            "Frieda",
+            "Girl with buns"
+          ],
+          "dominant_colors": [
+            "Red",
+            "White"
+          ],
+          "emotional_tone": "informative",
+          "confidence": 0.95,
+          "evidence_time": 317.5,
+          "start_time": 316.1666666666667,
+          "end_time": 319.5,
+          "duration": 3.3333333333333144,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 317.83333333333337,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 317.83333333333337
+          }
+        },
+        {
+          "order": 14,
+          "description": "A dark-haired woman in a black sports top looks down thoughtfully, giving a harsh assessment while standing on the court.",
+          "scene_type": "single",
+          "shot_size": "close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "low_angle",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural_sunlight",
+          "visible_characters": [
+            "Dark-haired girl"
+          ],
+          "dominant_colors": [
+            "Grey",
+            "Black"
+          ],
+          "emotional_tone": "mocking",
+          "confidence": 0.95,
+          "evidence_time": 324.0,
+          "start_time": 319.5,
+          "end_time": 328.4166666666667,
+          "duration": 8.916666666666686,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 323.95833333333337,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 323.95833333333337
+          }
+        },
+        {
+          "order": 15,
+          "description": "The blonde woman looks towards her friend, following her pointing gesture, while sitting against a red wall.",
+          "scene_type": "two_shot",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "asymmetrical_framing",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural_sunlight",
+          "visible_characters": [
+            "Frieda",
+            "Girl with buns"
+          ],
+          "dominant_colors": [
+            "Red",
+            "White"
+          ],
+          "emotional_tone": "curious",
+          "confidence": 0.95,
+          "evidence_time": 333.0,
+          "start_time": 328.4166666666667,
+          "end_time": 339.1666666666667,
+          "duration": 10.75,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 333.7916666666667,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 333.7916666666667
+          }
+        },
+        {
+          "order": 16,
+          "description": "An Asian woman with pigtails swings intensely at a tennis ball during practice on the court.",
+          "scene_type": "single",
+          "shot_size": "medium_close_up",
+          "camera_movement": "pan",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural_sunlight",
+          "visible_characters": [
+            "Asian girl"
+          ],
+          "dominant_colors": [
+            "Red",
+            "Black"
+          ],
+          "emotional_tone": "intense",
+          "confidence": 0.9,
+          "evidence_time": 341.0,
+          "start_time": 339.1666666666667,
+          "end_time": 342.4583333333333,
+          "duration": 3.2916666666666288,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 340.8125,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 340.8125
+          }
+        },
+        {
+          "order": 17,
+          "description": "A woman with green braided hair looks ahead with a fiercely focused expression as she prepares.",
+          "scene_type": "single",
+          "shot_size": "close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural_sunlight",
+          "visible_characters": [
+            "Bana"
+          ],
+          "dominant_colors": [
+            "Red",
+            "Green",
+            "Black"
+          ],
+          "emotional_tone": "determined",
+          "confidence": 0.95,
+          "evidence_time": 343.0,
+          "start_time": 342.4583333333333,
+          "end_time": 344.0416666666667,
+          "duration": 1.5833333333333712,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 343.25,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 343.25
+          }
+        },
+        {
+          "order": 18,
+          "description": "A tight close-up of a woman with green braided hair, panting slightly while holding her stance during practice.",
+          "scene_type": "single",
+          "shot_size": "extreme_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural_sunlight",
+          "visible_characters": [
+            "Bana"
+          ],
+          "dominant_colors": [
+            "Red",
+            "Green"
+          ],
+          "emotional_tone": "focused",
+          "confidence": 0.95,
+          "evidence_time": 345.5,
+          "start_time": 344.0416666666667,
+          "end_time": 347.2083333333333,
+          "duration": 3.1666666666666288,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 345.625,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 345.625
+          }
+        },
+        {
+          "order": 19,
+          "description": "The blonde woman looks at her companion in slight disbelief as they sit together on the bench.",
+          "scene_type": "two_shot",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "asymmetrical_framing",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural_sunlight",
+          "visible_characters": [
+            "Frieda",
+            "Girl with buns"
+          ],
+          "dominant_colors": [
+            "Red",
+            "White"
+          ],
+          "emotional_tone": "intimidated",
+          "confidence": 0.95,
+          "evidence_time": 348.5,
+          "start_time": 347.2083333333333,
+          "end_time": 350.4583333333333,
+          "duration": 3.25,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 348.8333333333333,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 348.8333333333333
+          }
+        },
+        {
+          "order": 20,
+          "description": "A close-up of a woman with braided hair, seemingly mid-action, intensely focused as she prepares to return a shot.",
+          "scene_type": "single",
+          "shot_size": "extreme_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural_sunlight",
+          "visible_characters": [
+            "Bana"
+          ],
+          "dominant_colors": [
+            "Red",
+            "Green",
+            "Dark_skin"
+          ],
+          "emotional_tone": "intense",
+          "confidence": 0.95,
+          "evidence_time": 354.0,
+          "start_time": 350.4583333333333,
+          "end_time": 357.5833333333333,
+          "duration": 7.125,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 354.0208333333333,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 354.0208333333333
+          }
+        },
+        {
+          "order": 21,
+          "description": "The blonde woman looks down in apprehension while sitting with another woman against the striking red wall.",
+          "scene_type": "two_shot",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "asymmetrical_framing",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural_sunlight",
+          "visible_characters": [
+            "Frieda",
+            "Girl with buns"
+          ],
+          "dominant_colors": [
+            "Red",
+            "White"
+          ],
+          "emotional_tone": "overwhelmed",
+          "confidence": 0.95,
+          "evidence_time": 358.5,
+          "start_time": 357.5833333333333,
+          "end_time": 360.0,
+          "duration": 2.4166666666666856,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 358.79166666666663,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 358.79166666666663
+          }
+        }
+      ],
+      "scene_types": [
+        "single",
+        "two_shot",
+        "over_shoulder",
+        "establishing",
+        "point_of_view"
+      ],
+      "model": "gemini-3.1-pro-preview",
+      "analysis_strategy": "chunked_inline_v1",
+      "detected_scene_count": 21,
+      "analyzed_scene_count": 21
+    },
+    {
+      "chapter_number": 4,
+      "title": "BT Segment 4",
+      "start_time": 360.0,
+      "end_time": 480.0,
+      "camera_movements": [
+        "handheld",
+        "pan",
+        "dolly_in"
+      ],
+      "characters": [
+        "Sophie",
+        "Bambi",
+        "Coach",
+        "Xue",
+        "Smoking Woman",
+        "Green braided hair girl",
+        "Indian girl"
+      ],
+      "dominant_colors": [
+        "Red",
+        "Grey",
+        "Skin Tones",
+        "Black"
+      ],
+      "visual_style": "Gritty, realistic, slightly desaturated",
+      "lighting_style": "Natural daylight transitioning to harsh, fluorescent top-lighting",
+      "setting_context": "An outdoor red clay tennis court and a dimly lit, institutional locker room",
+      "mood": "Tense, competitive, unwelcoming",
+      "visual_motifs": [
+        "tennis rackets",
+        "lockers",
+        "vintage TVs",
+        "sweat"
+      ],
+      "scenes": [
+        {
+          "order": 1,
+          "description": "Two young women with blonde hair are sitting together against a red wall and looking at each other, one discussing stomach cramps and her period.",
+          "scene_type": "two_shot",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "off_center_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural",
+          "visible_characters": [
+            "Sophie",
+            "Bambi"
+          ],
+          "dominant_colors": [
+            "Red",
+            "Blonde"
+          ],
+          "emotional_tone": "concerned",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 360.0,
+          "end_time": 367.2916666666667,
+          "duration": 7.291666666666686,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 363.64583333333337,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 363.64583333333337
+          }
+        },
+        {
+          "order": 2,
+          "description": "A woman with braided green hair is swinging a tennis racket aggressively during a match, focusing intensely.",
+          "scene_type": "single",
+          "shot_size": "medium_close_up",
+          "camera_movement": "pan",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural",
+          "visible_characters": [
+            "Green braided hair girl"
+          ],
+          "dominant_colors": [
+            "Green",
+            "Red"
+          ],
+          "emotional_tone": "intense",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 367.2916666666667,
+          "end_time": 368.1666666666667,
+          "duration": 0.875,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 367.7291666666667,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 367.7291666666667
+          }
+        },
+        {
+          "order": 3,
+          "description": "A young woman with dark hair focuses intently on a tennis court, bracing for the next move.",
+          "scene_type": "single",
+          "shot_size": "close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject"
+          ],
+          "lighting": "natural",
+          "visible_characters": [
+            "Dark haired tennis player"
+          ],
+          "dominant_colors": [
+            "Red",
+            "Skin Tones"
+          ],
+          "emotional_tone": "focused",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 368.1666666666667,
+          "end_time": 369.5833333333333,
+          "duration": 1.4166666666666288,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 368.875,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 368.875
+          }
+        },
+        {
+          "order": 4,
+          "description": "A woman with green braided hair continues her athletic tennis swing, returning a powerful shot.",
+          "scene_type": "single",
+          "shot_size": "medium_close_up",
+          "camera_movement": "pan",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject"
+          ],
+          "lighting": "natural",
+          "visible_characters": [
+            "Green braided hair girl"
+          ],
+          "dominant_colors": [
+            "Green",
+            "Red"
+          ],
+          "emotional_tone": "intense",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 369.5833333333333,
+          "end_time": 371.25,
+          "duration": 1.6666666666666856,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 370.41666666666663,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 370.41666666666663
+          }
+        },
+        {
+          "order": 5,
+          "description": "An elderly male coach is speaking sternly to someone off-camera while standing on a tennis court.",
+          "scene_type": "single",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural",
+          "visible_characters": [
+            "Coach"
+          ],
+          "dominant_colors": [
+            "Red",
+            "White"
+          ],
+          "emotional_tone": "authoritative",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 371.25,
+          "end_time": 373.5416666666667,
+          "duration": 2.2916666666666856,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 372.39583333333337,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 372.39583333333337
+          }
+        },
+        {
+          "order": 6,
+          "description": "Two blonde women are conversing while sitting against a red wall. Bambi explains that she has her period to excuse herself from playing.",
+          "scene_type": "over_shoulder",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "asymmetrical_framing",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural",
+          "visible_characters": [
+            "Sophie",
+            "Bambi"
+          ],
+          "dominant_colors": [
+            "Red",
+            "Blonde"
+          ],
+          "emotional_tone": "uncomfortable",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 373.5416666666667,
+          "end_time": 375.375,
+          "duration": 1.8333333333333144,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 374.45833333333337,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 374.45833333333337
+          }
+        },
+        {
+          "order": 7,
+          "description": "An older man in a vest looks toward the side while standing on the court, aggressively demanding that the girls stop being pathetic and join the practice.",
+          "scene_type": "single",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject"
+          ],
+          "lighting": "natural",
+          "visible_characters": [
+            "Coach"
+          ],
+          "dominant_colors": [
+            "Red",
+            "White"
+          ],
+          "emotional_tone": "aggressive",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 375.375,
+          "end_time": 380.2916666666667,
+          "duration": 4.916666666666686,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 377.83333333333337,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 377.83333333333337
+          }
+        },
+        {
+          "order": 8,
+          "description": "Two young women with different hair colors sit together, looking in the same direction at the coach with weary expressions.",
+          "scene_type": "over_shoulder",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "asymmetrical_framing",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural",
+          "visible_characters": [
+            "Sophie",
+            "Bambi"
+          ],
+          "dominant_colors": [
+            "Red",
+            "Blonde"
+          ],
+          "emotional_tone": "resigned",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 380.2916666666667,
+          "end_time": 382.0416666666667,
+          "duration": 1.75,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 381.1666666666667,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 381.1666666666667
+          }
+        },
+        {
+          "order": 9,
+          "description": "An older man stands on the court and continues speaking, enforcing a punishment rule where everyone pushes if one dodges.",
+          "scene_type": "single",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "natural",
+          "visible_characters": [
+            "Coach"
+          ],
+          "dominant_colors": [
+            "Red",
+            "White"
+          ],
+          "emotional_tone": "harsh",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 382.0416666666667,
+          "end_time": 387.8333333333333,
+          "duration": 5.791666666666629,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 384.9375,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 384.9375
+          }
+        },
+        {
+          "order": 10,
+          "description": "Two small vintage television sets display black-and-white surveillance footage of people training on a tennis court and an empty locker room.",
+          "scene_type": "insert",
+          "shot_size": "close_up",
+          "camera_movement": "static",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "symmetrical_framing"
+          ],
+          "lighting": "low_key",
+          "visible_characters": [],
+          "dominant_colors": [
+            "Red",
+            "Grey",
+            "Black"
+          ],
+          "emotional_tone": "mysterious",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 387.8333333333333,
+          "end_time": 393.0833333333333,
+          "duration": 5.25,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 390.4583333333333,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 390.4583333333333
+          }
+        },
+        {
+          "order": 11,
+          "description": "A woman with long dark hair holds a cigarette while speaking, watching the surveillance monitors in a dimly lit room.",
+          "scene_type": "single",
+          "shot_size": "close_up",
+          "camera_movement": "dolly_in",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "low_key",
+          "visible_characters": [
+            "Smoking Woman"
+          ],
+          "dominant_colors": [
+            "Dark Brown",
+            "Red"
+          ],
+          "emotional_tone": "cynical",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 393.0833333333333,
+          "end_time": 401.375,
+          "duration": 8.291666666666686,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 397.22916666666663,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 397.22916666666663
+          }
+        },
+        {
+          "order": 12,
+          "description": "A close-up of a weathered locker label with the name ERIN printed on it using a label maker.",
+          "scene_type": "insert",
+          "shot_size": "extreme_close_up",
+          "camera_movement": "static",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject"
+          ],
+          "lighting": "dim",
+          "visible_characters": [],
+          "dominant_colors": [
+            "Orange",
+            "Black"
+          ],
+          "emotional_tone": "neutral",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 401.375,
+          "end_time": 403.0416666666667,
+          "duration": 1.6666666666666856,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 402.20833333333337,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 402.20833333333337
+          }
+        },
+        {
+          "order": 13,
+          "description": "A young woman in a track jacket stands inside a locker room with others, examining a locker before being addressed by another trainee.",
+          "scene_type": "two_shot",
+          "shot_size": "medium",
+          "camera_movement": "pan",
+          "camera_angle": "eye_level",
+          "composition": [
+            "layered_depth",
+            "off_center_subject"
+          ],
+          "lighting": "top_lighting",
+          "visible_characters": [
+            "Sophie",
+            "Bambi"
+          ],
+          "dominant_colors": [
+            "Grey",
+            "Beige"
+          ],
+          "emotional_tone": "unwelcoming",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 403.0416666666667,
+          "end_time": 424.2083333333333,
+          "duration": 21.16666666666663,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 413.625,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 413.625
+          }
+        },
+        {
+          "order": 14,
+          "description": "A young woman wearing a tennis-themed t-shirt looks at a person standing in front of her, listening to their introduction.",
+          "scene_type": "over_shoulder",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "foreground_framing",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "top_lighting",
+          "visible_characters": [
+            "Sophie"
+          ],
+          "dominant_colors": [
+            "Grey",
+            "Skin Tones"
+          ],
+          "emotional_tone": "neutral",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 424.2083333333333,
+          "end_time": 425.5416666666667,
+          "duration": 1.3333333333333712,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 424.875,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 424.875
+          }
+        },
+        {
+          "order": 15,
+          "description": "A young woman with dark hair looks towards another person in a locker room, introducing herself as Xue from Nanjing.",
+          "scene_type": "over_shoulder",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "foreground_framing",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "top_lighting",
+          "visible_characters": [
+            "Xue"
+          ],
+          "dominant_colors": [
+            "Grey",
+            "Dark Brown"
+          ],
+          "emotional_tone": "condescending",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 425.5416666666667,
+          "end_time": 428.0,
+          "duration": 2.4583333333333144,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 426.77083333333337,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 426.77083333333337
+          }
+        },
+        {
+          "order": 16,
+          "description": "A young woman with blonde hair stands in a locker room looking at someone, hesitantly introducing herself as Sophie from Detroit.",
+          "scene_type": "over_shoulder",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "foreground_framing",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "top_lighting",
+          "visible_characters": [
+            "Sophie"
+          ],
+          "dominant_colors": [
+            "Grey",
+            "Blonde"
+          ],
+          "emotional_tone": "insecure",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 428.0,
+          "end_time": 433.5,
+          "duration": 5.5,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 430.75,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 430.75
+          }
+        },
+        {
+          "order": 17,
+          "description": "Three young women stand in a locker room having a tense conversation, with one mocking Sophie's nylon strings.",
+          "scene_type": "group",
+          "shot_size": "medium",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "layered_depth",
+            "off_center_subject"
+          ],
+          "lighting": "top_lighting",
+          "visible_characters": [
+            "Sophie",
+            "Xue",
+            "Indian girl"
+          ],
+          "dominant_colors": [
+            "Grey",
+            "Black"
+          ],
+          "emotional_tone": "hostile",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 433.5,
+          "end_time": 441.5,
+          "duration": 8.0,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 437.5,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 437.5
+          }
+        },
+        {
+          "order": 18,
+          "description": "An Indian girl gets into Sophie's personal space to insult her, while a woman with braided hair stands in a locker room tying her hair up in the background.",
+          "scene_type": "two_shot",
+          "shot_size": "close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "layered_depth",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "top_lighting",
+          "visible_characters": [
+            "Sophie",
+            "Indian girl",
+            "Green braided hair girl"
+          ],
+          "dominant_colors": [
+            "Grey",
+            "Black",
+            "Skin Tones"
+          ],
+          "emotional_tone": "aggressive",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 441.5,
+          "end_time": 457.625,
+          "duration": 16.125,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 449.5625,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 449.5625
+          }
+        },
+        {
+          "order": 19,
+          "description": "A woman in a sports bra adjusts her clothing while standing in a locker room, casting a judgment-filled glance.",
+          "scene_type": "single",
+          "shot_size": "medium",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject"
+          ],
+          "lighting": "top_lighting",
+          "visible_characters": [
+            "Redheaded girl"
+          ],
+          "dominant_colors": [
+            "Grey",
+            "Black"
+          ],
+          "emotional_tone": "hostile",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 457.625,
+          "end_time": 459.4583333333333,
+          "duration": 1.8333333333333144,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 458.54166666666663,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 458.54166666666663
+          }
+        },
+        {
+          "order": 20,
+          "description": "A woman with blonde hair listens to another person standing behind her telling her she smells, looking downcast.",
+          "scene_type": "over_shoulder",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "foreground_framing",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "top_lighting",
+          "visible_characters": [
+            "Sophie"
+          ],
+          "dominant_colors": [
+            "Grey",
+            "Blonde"
+          ],
+          "emotional_tone": "humiliated",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 459.4583333333333,
+          "end_time": 464.2916666666667,
+          "duration": 4.833333333333371,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 461.875,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 461.875
+          }
+        },
+        {
+          "order": 21,
+          "description": "A close-up shot focuses on the profile of a young woman with blonde hair as she stands alone in the locker room, visibly upset before turning to the showers.",
+          "scene_type": "single",
+          "shot_size": "close_up",
+          "camera_movement": "pan",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "negative_space"
+          ],
+          "lighting": "top_lighting",
+          "visible_characters": [
+            "Sophie"
+          ],
+          "dominant_colors": [
+            "Grey",
+            "Shadows"
+          ],
+          "emotional_tone": "melancholic",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 464.2916666666667,
+          "end_time": 475.0833333333333,
+          "duration": 10.791666666666629,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 469.6875,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 469.6875
+          }
+        },
+        {
+          "order": 22,
+          "description": "A person with wet, blonde hair stands in a shower with water cascading down their back, washing off the sweat and stress of the day.",
+          "scene_type": "single",
+          "shot_size": "medium_close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "off_center_subject"
+          ],
+          "lighting": "dim",
+          "visible_characters": [
+            "Sophie"
+          ],
+          "dominant_colors": [
+            "Grey",
+            "Skin Tones"
+          ],
+          "emotional_tone": "vulnerable",
+          "confidence": 0.9,
+          "evidence_time": null,
+          "start_time": 475.0833333333333,
+          "end_time": 480.0,
+          "duration": 4.916666666666686,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 477.54166666666663,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 477.54166666666663
+          }
+        }
+      ],
+      "scene_types": [
+        "other",
+        "insert"
+      ],
+      "model": "gemini-3.1-pro-preview",
+      "analysis_strategy": "chunked_inline_v1",
+      "detected_scene_count": 22,
+      "analyzed_scene_count": 22
+    },
+    {
+      "chapter_number": 5,
+      "title": "BT Segment 5",
+      "start_time": 480.0,
+      "end_time": 600.0,
+      "camera_movements": [
+        "pan",
+        "static",
+        "handheld"
+      ],
+      "characters": [
+        "Young Woman",
+        "Older Woman"
+      ],
+      "dominant_colors": [
+        "Grey",
+        "Green",
+        "Muted Skin Tones",
+        "White",
+        "Black"
+      ],
+      "visual_style": "Cinematic, moody, and clinical with a stark contrast between the dark, steamy shower and the naturally lit, green-toned medical office.",
+      "lighting_style": "Low-key and diffused in the shower scenes; soft, natural window lighting in the medical office.",
+      "setting_context": "A communal shower room followed by an old-fashioned medical examination room.",
+      "mood": "Eerie, clinical, tense, and unsettling.",
+      "visual_motifs": [
+        "leeches",
+        "medical examination",
+        "water",
+        "bare skin",
+        "purple gloves"
+      ],
+      "scenes": [
+        {
+          "order": 1,
+          "description": "A woman stands in a shower with water pouring over her back. The camera pans across a dimly lit, steamy communal shower room showing young women washing themselves.",
+          "scene_type": "group",
+          "shot_size": "medium_close_up",
+          "camera_movement": "pan",
+          "camera_angle": "eye_level",
+          "composition": [
+            "layered_depth",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "low-key, diffused",
+          "visible_characters": [
+            "Young Woman"
+          ],
+          "dominant_colors": [
+            "Grey",
+            "Muted Skin Tones"
+          ],
+          "emotional_tone": "mysterious",
+          "confidence": 1.0,
+          "evidence_time": 484.5,
+          "start_time": 480.0,
+          "end_time": 488.9166666666667,
+          "duration": 8.916666666666686,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 484.45833333333337,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 484.45833333333337
+          }
+        },
+        {
+          "order": 2,
+          "description": "A person with dreadlocks stands in a dimly lit, steamy shower stall. The camera continues to slowly pan through the room, focusing on different young women, including one with blonde hair looking back. The atmosphere remains thick with steam.",
+          "scene_type": "group",
+          "shot_size": "medium_close_up",
+          "camera_movement": "pan",
+          "camera_angle": "eye_level",
+          "composition": [
+            "layered_depth",
+            "shallow_depth_of_field",
+            "off_center_subject"
+          ],
+          "lighting": "low-key, diffused",
+          "visible_characters": [
+            "Young Woman"
+          ],
+          "dominant_colors": [
+            "Grey",
+            "Muted Skin Tones"
+          ],
+          "emotional_tone": "eerie",
+          "confidence": 1.0,
+          "evidence_time": 504.0,
+          "start_time": 488.9166666666667,
+          "end_time": 519.7916666666666,
+          "duration": 30.874999999999943,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 504.35416666666663,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 504.35416666666663
+          }
+        },
+        {
+          "order": 3,
+          "description": "Several leeches are attached to the glass of a container filled with white stones. The dark creatures slither against the condensation-covered glass in a tight macro shot.",
+          "scene_type": "insert",
+          "shot_size": "extreme_close_up",
+          "camera_movement": "static",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "soft",
+          "visible_characters": [],
+          "dominant_colors": [
+            "Black",
+            "Grey",
+            "White"
+          ],
+          "emotional_tone": "unsettling",
+          "confidence": 1.0,
+          "evidence_time": 523.0,
+          "start_time": 519.7916666666666,
+          "end_time": 526.8333333333334,
+          "duration": 7.0416666666667425,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 523.3125,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 523.3125
+          }
+        },
+        {
+          "order": 4,
+          "description": "An older woman in a coat puts on gloves while looking toward a younger woman. They are in a clinic room with green walls and soft window light as the older woman remarks on 'old medicine'.",
+          "scene_type": "two_shot",
+          "shot_size": "medium",
+          "camera_movement": "static",
+          "camera_angle": "eye_level",
+          "composition": [
+            "layered_depth",
+            "off_center_subject"
+          ],
+          "lighting": "soft, natural",
+          "visible_characters": [
+            "Older Woman",
+            "Young Woman"
+          ],
+          "dominant_colors": [
+            "Green",
+            "White",
+            "Brown"
+          ],
+          "emotional_tone": "clinical",
+          "confidence": 1.0,
+          "evidence_time": 529.0,
+          "start_time": 526.8333333333334,
+          "end_time": 531.7916666666666,
+          "duration": 4.9583333333332575,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 529.3125,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 529.3125
+          }
+        },
+        {
+          "order": 5,
+          "description": "A close-up of a leech moving against a glass surface. A single dark leech explores the wet boundary of its enclosure with a blurred background.",
+          "scene_type": "insert",
+          "shot_size": "extreme_close_up",
+          "camera_movement": "static",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "soft",
+          "visible_characters": [],
+          "dominant_colors": [
+            "Black",
+            "Grey"
+          ],
+          "emotional_tone": "unsettling",
+          "confidence": 1.0,
+          "evidence_time": 533.0,
+          "start_time": 531.7916666666666,
+          "end_time": 535.125,
+          "duration": 3.3333333333333712,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 533.4583333333333,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 533.4583333333333
+          }
+        },
+        {
+          "order": 6,
+          "description": "An older woman looks intensely at a younger woman while holding a tool. She steps close to her patient in the softly lit clinic, speaking directly and preparing for an examination.",
+          "scene_type": "over_shoulder",
+          "shot_size": "close_up",
+          "camera_movement": "handheld",
+          "camera_angle": "eye_level",
+          "composition": [
+            "foreground_framing",
+            "off_center_subject"
+          ],
+          "lighting": "soft",
+          "visible_characters": [
+            "Older Woman",
+            "Young Woman"
+          ],
+          "dominant_colors": [
+            "Green",
+            "Skin Tones"
+          ],
+          "emotional_tone": "tense",
+          "confidence": 1.0,
+          "evidence_time": 538.0,
+          "start_time": 535.125,
+          "end_time": 540.8333333333334,
+          "duration": 5.708333333333371,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 537.9791666666667,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 537.9791666666667
+          }
+        },
+        {
+          "order": 7,
+          "description": "An older woman uses a tongue depressor to examine a young woman's throat. The young woman opens her mouth wide in a tight framing of her face.",
+          "scene_type": "single",
+          "shot_size": "close_up",
+          "camera_movement": "static",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "soft",
+          "visible_characters": [
+            "Young Woman",
+            "Older Woman"
+          ],
+          "dominant_colors": [
+            "Skin Tones"
+          ],
+          "emotional_tone": "vulnerable",
+          "confidence": 1.0,
+          "evidence_time": 542.0,
+          "start_time": 540.8333333333334,
+          "end_time": 543.375,
+          "duration": 2.5416666666666288,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 542.1041666666667,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 542.1041666666667
+          }
+        },
+        {
+          "order": 8,
+          "description": "An older woman speaks directly to a younger woman during an examination. Seen over the young woman's shoulder, she instructs her patient to roll up her shirt.",
+          "scene_type": "over_shoulder",
+          "shot_size": "close_up",
+          "camera_movement": "static",
+          "camera_angle": "eye_level",
+          "composition": [
+            "foreground_framing",
+            "off_center_subject"
+          ],
+          "lighting": "soft",
+          "visible_characters": [
+            "Older Woman",
+            "Young Woman"
+          ],
+          "dominant_colors": [
+            "Green",
+            "Skin Tones"
+          ],
+          "emotional_tone": "authoritative",
+          "confidence": 1.0,
+          "evidence_time": 544.5,
+          "start_time": 543.375,
+          "end_time": 546.125,
+          "duration": 2.75,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 544.75,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 544.75
+          }
+        },
+        {
+          "order": 9,
+          "description": "A young woman lifts her shirt to expose her abdomen while an older woman watches. She stands up in the clinic room to bare her skin, while the older woman critically observes.",
+          "scene_type": "two_shot",
+          "shot_size": "medium",
+          "camera_movement": "static",
+          "camera_angle": "eye_level",
+          "composition": [
+            "off_center_subject",
+            "layered_depth"
+          ],
+          "lighting": "natural",
+          "visible_characters": [
+            "Young Woman",
+            "Older Woman"
+          ],
+          "dominant_colors": [
+            "Green",
+            "Grey",
+            "Skin Tones"
+          ],
+          "emotional_tone": "exposed",
+          "confidence": 1.0,
+          "evidence_time": 553.0,
+          "start_time": 546.125,
+          "end_time": 561.5416666666666,
+          "duration": 15.416666666666629,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 553.8333333333333,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 553.8333333333333
+          }
+        },
+        {
+          "order": 10,
+          "description": "A young woman looks down with a contemplative expression. She turns her face slightly downward as she listens to remarks about daughters robbing their mothers of beauty.",
+          "scene_type": "single",
+          "shot_size": "close_up",
+          "camera_movement": "static",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "soft",
+          "visible_characters": [
+            "Young Woman"
+          ],
+          "dominant_colors": [
+            "Green",
+            "Skin Tones"
+          ],
+          "emotional_tone": "contemplative",
+          "confidence": 1.0,
+          "evidence_time": 564.0,
+          "start_time": 561.5416666666666,
+          "end_time": 566.75,
+          "duration": 5.208333333333371,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 564.1458333333333,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 564.1458333333333
+          }
+        },
+        {
+          "order": 11,
+          "description": "An older woman looks down while speaking to a person out of frame. Her expression is thoughtful and assessing in a shallow focus shot.",
+          "scene_type": "single",
+          "shot_size": "close_up",
+          "camera_movement": "static",
+          "camera_angle": "eye_level",
+          "composition": [
+            "off_center_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "soft",
+          "visible_characters": [
+            "Older Woman"
+          ],
+          "dominant_colors": [
+            "Green",
+            "Skin Tones"
+          ],
+          "emotional_tone": "assessing",
+          "confidence": 1.0,
+          "evidence_time": 569.0,
+          "start_time": 566.75,
+          "end_time": 571.9583333333334,
+          "duration": 5.208333333333371,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 569.3541666666667,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 569.3541666666667
+          }
+        },
+        {
+          "order": 12,
+          "description": "A gloved hand presses against a person's skin. A tight macro shot shows the older woman's purple glove firmly palpating the young woman's bare abdomen.",
+          "scene_type": "insert",
+          "shot_size": "extreme_close_up",
+          "camera_movement": "static",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "soft",
+          "visible_characters": [
+            "Older Woman",
+            "Young Woman"
+          ],
+          "dominant_colors": [
+            "Purple",
+            "Skin Tones"
+          ],
+          "emotional_tone": "clinical",
+          "confidence": 1.0,
+          "evidence_time": 574.0,
+          "start_time": 571.9583333333334,
+          "end_time": 576.4583333333334,
+          "duration": 4.5,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 574.2083333333334,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 574.2083333333334
+          }
+        },
+        {
+          "order": 13,
+          "description": "A young woman listens intently with a neutral expression. She keeps a guarded look while asking the older woman if she knew her mother.",
+          "scene_type": "single",
+          "shot_size": "close_up",
+          "camera_movement": "static",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "soft",
+          "visible_characters": [
+            "Young Woman"
+          ],
+          "dominant_colors": [
+            "Green",
+            "Skin Tones"
+          ],
+          "emotional_tone": "curious",
+          "confidence": 1.0,
+          "evidence_time": 578.0,
+          "start_time": 576.4583333333334,
+          "end_time": 580.4166666666666,
+          "duration": 3.9583333333332575,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 578.4375,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 578.4375
+          }
+        },
+        {
+          "order": 14,
+          "description": "An older woman leans in to speak with a person standing before her. In an over-the-shoulder shot, she answers the young woman intimately, recounting a past memory.",
+          "scene_type": "over_shoulder",
+          "shot_size": "close_up",
+          "camera_movement": "static",
+          "camera_angle": "eye_level",
+          "composition": [
+            "foreground_framing",
+            "off_center_subject"
+          ],
+          "lighting": "soft",
+          "visible_characters": [
+            "Older Woman",
+            "Young Woman"
+          ],
+          "dominant_colors": [
+            "Skin Tones",
+            "Green"
+          ],
+          "emotional_tone": "intimate",
+          "confidence": 1.0,
+          "evidence_time": 582.0,
+          "start_time": 580.4166666666666,
+          "end_time": 583.9166666666666,
+          "duration": 3.5,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 582.1666666666666,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 582.1666666666666
+          }
+        },
+        {
+          "order": 15,
+          "description": "A young woman looks toward the right side of the frame, visibly absorbing the unsettling information she is being told about her mother's past.",
+          "scene_type": "single",
+          "shot_size": "close_up",
+          "camera_movement": "static",
+          "camera_angle": "eye_level",
+          "composition": [
+            "centered_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "soft",
+          "visible_characters": [
+            "Young Woman"
+          ],
+          "dominant_colors": [
+            "Green",
+            "Skin Tones"
+          ],
+          "emotional_tone": "absorbed",
+          "confidence": 1.0,
+          "evidence_time": 585.0,
+          "start_time": 583.9166666666666,
+          "end_time": 586.125,
+          "duration": 2.2083333333333712,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 585.0208333333333,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 585.0208333333333
+          }
+        },
+        {
+          "order": 16,
+          "description": "An older woman continues to speak while standing in a room. Her face remains somber and direct as she concludes her thought about the young woman's mother.",
+          "scene_type": "single",
+          "shot_size": "close_up",
+          "camera_movement": "static",
+          "camera_angle": "eye_level",
+          "composition": [
+            "off_center_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "soft",
+          "visible_characters": [
+            "Older Woman"
+          ],
+          "dominant_colors": [
+            "Skin Tones"
+          ],
+          "emotional_tone": "somber",
+          "confidence": 1.0,
+          "evidence_time": 587.5,
+          "start_time": 586.125,
+          "end_time": 588.9166666666666,
+          "duration": 2.7916666666666288,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 587.5208333333333,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 587.5208333333333
+          }
+        },
+        {
+          "order": 17,
+          "description": "A young woman turns her head slightly in a room with a blurred background. She processes the grim words about her mother, her expression troubled.",
+          "scene_type": "single",
+          "shot_size": "close_up",
+          "camera_movement": "static",
+          "camera_angle": "eye_level",
+          "composition": [
+            "off_center_subject",
+            "shallow_depth_of_field"
+          ],
+          "lighting": "soft",
+          "visible_characters": [
+            "Young Woman"
+          ],
+          "dominant_colors": [
+            "Green",
+            "Skin Tones"
+          ],
+          "emotional_tone": "troubled",
+          "confidence": 1.0,
+          "evidence_time": 594.0,
+          "start_time": 588.9166666666666,
+          "end_time": 600.0,
+          "duration": 11.083333333333371,
+          "timestamp_source": "pyscenedetect_chunked",
+          "contains_multiple_beats": false,
+          "beats": [],
+          "sample_frame_times": [],
+          "boundary_trim_seconds": null,
+          "thumbnail_time": 594.4583333333333,
+          "thumbnail": {
+            "kind": "scene_keyframe",
+            "strategy": "scene_midpoint",
+            "time": 594.4583333333333
+          }
+        }
+      ],
+      "scene_types": [
+        "group",
+        "insert",
+        "two_shot",
+        "over_shoulder",
+        "single"
+      ],
+      "model": "gemini-3.1-pro-preview",
+      "analysis_strategy": "chunked_inline_v1",
+      "detected_scene_count": 17,
+      "analyzed_scene_count": 17
+    }
+  ]
+}

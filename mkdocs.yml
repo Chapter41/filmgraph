@@ -1,0 +1,51 @@
+site_name: FilmGraph
+site_url: https://Chapter41.github.io/filmgraph
+site_description: A minimal, structured data format for film analysis
+repo_url: https://github.com/Chapter41/filmgraph
+repo_name: Chapter41/filmgraph
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - content.code.copy
+    - navigation.instant
+    - navigation.sections
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+
+nav:
+  - Home: index.md
+  - Schema Reference: schema.md
+  - Importers: importers.md
+  - Vocabularies: vocabularies.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonitions
+  - tables
+  - toc:
+      permalink: true
