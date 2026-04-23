@@ -37,6 +37,7 @@ nav:
   - Home: index.md
   - Schema Reference: schema.md
   - Importers: importers.md
+  - Exporters: exporters.md
   - Vocabularies: vocabularies.md
 
 markdown_extensions:
