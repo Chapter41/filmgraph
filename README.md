@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 
-[Install](#install) · [Quick Start](#quick-start) · [Schema](#schema) · [Importers](#importers) · [Docs](https://Chapter41.github.io/filmgraph)
+[Install](#install) · [Quick Start](#quick-start) · [Schema](#schema) · [Importers](#importers) · [Exporters](#exporters) · [Docs](https://Chapter41.github.io/filmgraph)
 
 </div>
 
@@ -127,6 +127,39 @@ Each importer also works as a CLI:
 ```bash
 python -m filmgraph.importers.ccsl input.docx -o output.filmgraph.json
 python -m filmgraph.importers.srt movie.srt -o subs.filmgraph.json
+```
+
+## Exporters
+
+Go the other direction — render a FilmGraph as the industry format of your choice:
+
+```python
+from filmgraph.exporters.srt import filmgraph_to_srt
+from filmgraph.exporters.ccsl import filmgraph_to_ccsl
+
+Path("movie.srt").write_text(filmgraph_to_srt(fg))
+filmgraph_to_ccsl(fg, "movie_ccsl.docx")
+```
+
+| Exporter | Function | Output | Extra |
+|----------|----------|--------|-------|
+| **SRT/VTT** | `filmgraph_to_srt()` / `filmgraph_to_vtt()` | Subtitles | — |
+| **CCSL** | `filmgraph_to_ccsl()` | `.docx` shot list | `pip install filmgraph[docx]` |
+| **Dialogbuch** | `filmgraph_to_dialogbuch()` | German dubbing script `.docx` | `pip install filmgraph[docx]` |
+| **AD Script** | `filmgraph_to_ad()` | Audio description `.docx` | `pip install filmgraph[docx]` |
+| **Pipeline** | `filmgraph_to_timeline()` | Pipeline JSON | — |
+| **Ground Truth** | `filmgraph_to_ground_truth()` | Bloody Tennis-style JSON fixture | — |
+| **OTIO** | `filmgraph_to_otio()` | EDL, FCP XML, AAF, `.otio` | `pip install filmgraph[otio]` |
+| **CSV** | `filmgraph_to_csv()` | Flat shot-list CSV | — |
+| **Markdown** | `filmgraph_to_markdown()` | Human-readable report | — |
+
+Every exporter also works as a CLI:
+
+```bash
+python -m filmgraph.exporters.srt movie.filmgraph.json -o movie.srt
+python -m filmgraph.exporters.ccsl movie.filmgraph.json -o movie_ccsl.docx
+python -m filmgraph.exporters.otio_export movie.filmgraph.json -o edit.edl
+python -m filmgraph.exporters.markdown movie.filmgraph.json -o report.md
 ```
 
 ## Build a FilmGraph Programmatically
